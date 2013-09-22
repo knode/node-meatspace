@@ -51,3 +51,5 @@ The issue tracker is used as a message board. If you have some ideas about in-pe
 * **October 18th-19th** *Portland, Oregon, USA* [The Realtime Conference](http://2013.realtimeconf.com/) 
 * **October 23rd** *London, England* [Node.js User Group Meetup](http://lnug.org/) 
 
+## July 2014
+* **July 4th Weekend** Marin Country, CA, USA [NodeConf 2014](http://www.nodeconf.com)
