@@ -52,5 +52,8 @@ The issue tracker is used as a message board. If you have some ideas about in-pe
 * **October 18th-19th** *Medellín, Colombia* [JSConf Colombia](http://jsconf.co/)
 * **October 23rd** *London, England* [Node.js User Group Meetup](http://lnug.org/) 
 
+## January 2014
+* **January 25th* Brescia, Italy [nodejsconf.it](http://nodejsconf.it)
+
 ## July 2014
 * **July 4th Weekend** Marin County, CA, USA [NodeConf 2014](http://www.nodeconf.com)
