@@ -49,6 +49,7 @@ The issue tracker is used as a message board. If you have some ideas about in-pe
 * **October 4th** *Lisbon, Portugal* [Nodecopter LX](http://nodecopter.pt/) 
 * **October 8th** *London, England* [The Great British Node Conference](http://greatbritishnodeconf.co.uk/)
 * **October 18th-19th** *Portland, Oregon, USA* [The Realtime Conference](http://2013.realtimeconf.com/) 
+* **October 18th-19th** *Medellín, Colombia* [JSConf Colombia](http://jsconf.co/)
 * **October 23rd** *London, England* [Node.js User Group Meetup](http://lnug.org/) 
 
 ## July 2014
