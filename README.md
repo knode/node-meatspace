@@ -52,4 +52,4 @@ The issue tracker is used as a message board. If you have some ideas about in-pe
 * **October 23rd** *London, England* [Node.js User Group Meetup](http://lnug.org/) 
 
 ## July 2014
-* **July 4th Weekend** Marin Country, CA, USA [NodeConf 2014](http://www.nodeconf.com)
+* **July 4th Weekend** Marin County, CA, USA [NodeConf 2014](http://www.nodeconf.com)
