@@ -47,12 +47,14 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### October 2013
 
+* *Oct 3rd* **Washington, DC** [Node DC, "NationJS lightning talks"](http://www.meetup.com/node-dc/events/139465312/)
 * *Oct 4th* **Lisbon, Portugal** [Nodecopter LX](http://nodecopter.pt/)
 * *Oct 8th* **London, England** [The Great British Node Conference](http://greatbritishnodeconf.co.uk/)
 * *Oct 8th* **Minneapolis, Minnesota** [NodeMN User Group Meetup](https://github.com/NodeMN)
 * *Oct 18th-19th* **Portland, Oregon, USA** [The Realtime Conference](http://2013.realtimeconf.com/)
 * *Oct 18th-19th* **Medellín, Colombia** [JSConf Colombia](http://jsconf.co/)
 * *Oct 23rd* **London, England** [Node.js User Group Meetup](http://lnug.org/)
+* *Oct 23rd* **Washington, DC** [Node DC, "Experiments with Nodejs, Arduino and Raspberry Pi"](http://www.meetup.com/node-dc/events/140084212/)
 * *Oct 31st* **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
 
 ### November 2013
