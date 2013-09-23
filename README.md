@@ -58,6 +58,10 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 * *Nov 28th* **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
 
+### December 2013
+
+* *Dec 3rd-4th* **San Francisco, CA, USA** [Node Summit](http://nodesummit.com/)
+
 ### January 2014
 * *Jan 25th* **Brescia, Italy** [nodejsconf.it](http://nodejsconf.it)
 
