@@ -1,0 +1,28 @@
+{
+  "name": "node-meatspace",
+  "version": "0.0.0",
+  "description": "Node.js community resource for encouraging and promoting in-person events.",
+  "main": "build.js",
+  "dependencies": {
+    "handlebars": "~1.0.12",
+    "marked": "~0.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikeal/node-meatspace.git"
+  },
+  "keywords": [
+    "community",
+    "meetups",
+    "node"
+  ],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/mikeal/node-meatspace/issues"
+  }
+}
