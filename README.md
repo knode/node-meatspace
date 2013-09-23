@@ -37,6 +37,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
   * **Bordeaux, France** [BordeauxJS: Développement Mobile HTML5](http://www.meetup.com/BordeauxJS/events/137641142/)
   * **Singapore** [SingaporeJS Book Club: Functional JavaScript](http://www.meetup.com/Singapore-JS/events/139413902/)
   * **Lexington, KY** [Kentucky JavaScript Users Group](http://www.meetup.com/Kentucky-JavaScript-Users-Group/events/141287282/)
+  * **Dublin, Ireland [Node.js Dublin](http://www.nodejsdublin.com/)
 * *Sept 27th*
   *  **Málaga, Spain** [Node Sol](http://www.meetup.com/Node-Sol/events/138893332/)
 * *Sept 28th*
@@ -51,6 +52,11 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * *Oct 18th-19th* **Portland, Oregon, USA** [The Realtime Conference](http://2013.realtimeconf.com/)
 * *Oct 18th-19th* **Medellín, Colombia** [JSConf Colombia](http://jsconf.co/)
 * *Oct 23rd* **London, England** [Node.js User Group Meetup](http://lnug.org/)
+* *Oct 31st* **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
+
+### November 2013
+
+* *Nov 28th* **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
 
 ### January 2014
 * *Jan 25th* **Brescia, Italy** [nodejsconf.it](http://nodejsconf.it)
