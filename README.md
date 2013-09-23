@@ -46,14 +46,14 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### October 2013
 
-* **October 4th** *Lisbon, Portugal* [Nodecopter LX](http://nodecopter.pt/)
-* **October 8th** *London, England* [The Great British Node Conference](http://greatbritishnodeconf.co.uk/)
-* **October 18th-19th** *Portland, Oregon, USA* [The Realtime Conference](http://2013.realtimeconf.com/)
-* **October 18th-19th** *Medellín, Colombia* [JSConf Colombia](http://jsconf.co/)
-* **October 23rd** *London, England* [Node.js User Group Meetup](http://lnug.org/)
+* *Oct 4th* **Lisbon, Portugal** [Nodecopter LX](http://nodecopter.pt/)
+* *Oct 8th* **London, England** [The Great British Node Conference](http://greatbritishnodeconf.co.uk/)
+* *Oct 18th-19th* **Portland, Oregon, USA** [The Realtime Conference](http://2013.realtimeconf.com/)
+* *Oct 18th-19th* **Medellín, Colombia** [JSConf Colombia](http://jsconf.co/)
+* *Oct 23rd* **London, England** [Node.js User Group Meetup](http://lnug.org/)
 
 ### January 2014
-* **January 25th** *Brescia, Italy* [nodejsconf.it](http://nodejsconf.it)
+* *Jan 25th* **Brescia, Italy** [nodejsconf.it](http://nodejsconf.it)
 
 ### July 2014
-* **July 4th Weekend** *Marin County, CA, USA* [NodeConf 2014](http://www.nodeconf.com)
+* *Jul 4th Weekend* **Marin County, CA, USA** [NodeConf 2014](http://www.nodeconf.com)
