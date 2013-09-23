@@ -37,7 +37,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
   * **Bordeaux, France** [BordeauxJS: Développement Mobile HTML5](http://www.meetup.com/BordeauxJS/events/137641142/)
   * **Singapore** [SingaporeJS Book Club: Functional JavaScript](http://www.meetup.com/Singapore-JS/events/139413902/)
   * **Lexington, KY** [Kentucky JavaScript Users Group](http://www.meetup.com/Kentucky-JavaScript-Users-Group/events/141287282/)
-  * **Dublin, Ireland [Node.js Dublin](http://www.nodejsdublin.com/)
+  * **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
 * *Sept 27th*
   *  **Málaga, Spain** [Node Sol](http://www.meetup.com/Node-Sol/events/138893332/)
 * *Sept 28th*
