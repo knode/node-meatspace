@@ -50,6 +50,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * *Oct 4th* **Lisbon, Portugal** [Nodecopter LX](http://nodecopter.pt/)
 * *Oct 8th* **London, England** [The Great British Node Conference](http://greatbritishnodeconf.co.uk/)
 * *Oct 8th* **Minneapolis, Minnesota** [NodeMN User Group Meetup](https://github.com/NodeMN)
+* *Oct 16th* **Jacksonville, FL** [Jax Node.js Group First Meetup](http://www.meetup.com/Jax-Node-js-UG/events/141123342/)
 * *Oct 18th-19th* **Portland, Oregon, USA** [The Realtime Conference](http://2013.realtimeconf.com/)
 * *Oct 18th-19th* **Medellín, Colombia** [JSConf Colombia](http://jsconf.co/)
 * *Oct 23rd* **London, England** [Node.js User Group Meetup](http://lnug.org/)
