@@ -39,6 +39,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
   * **Lexington, KY** [Kentucky JavaScript Users Group](http://www.meetup.com/Kentucky-JavaScript-Users-Group/events/141287282/)
   * **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
 * *Sept 27th*
+  * **Los Angeles, CA, USA** [JS.LA](http://js.la)
   *  **Málaga, Spain** [Node Sol](http://www.meetup.com/Node-Sol/events/138893332/)
 * *Sept 28th*
   *  **Sunshine Coast, Australia** [Coding from Beach: Silicon Beach Hackathon](http://www.meetup.com/Coding-from-Beach/events/139148792/)
