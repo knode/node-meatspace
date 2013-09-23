@@ -40,9 +40,9 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
   * **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
 * *Sept 27th*
   * **Los Angeles, CA, USA** [JS.LA](http://js.la)
-  *  **Málaga, Spain** [Node Sol](http://www.meetup.com/Node-Sol/events/138893332/)
+  * **Málaga, Spain** [Node Sol](http://www.meetup.com/Node-Sol/events/138893332/)
 * *Sept 28th*
-  *  **Sunshine Coast, Australia** [Coding from Beach: Silicon Beach Hackathon](http://www.meetup.com/Coding-from-Beach/events/139148792/)
+  * **Sunshine Coast, Australia** [Coding from Beach: Silicon Beach Hackathon](http://www.meetup.com/Coding-from-Beach/events/139148792/)
 * *Sept 29th*
   * **Bangalore, India** [Node.js Explorers: Realtime applications using Socket.io](http://www.meetup.com/Node-js-Explorers/events/119252172/)
 
