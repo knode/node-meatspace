@@ -53,7 +53,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * **October 23rd** *London, England* [Node.js User Group Meetup](http://lnug.org/)
 
 ### January 2014
-* **January 25th* Brescia, Italy [nodejsconf.it](http://nodejsconf.it)
+* **January 25th** *Brescia, Italy* [nodejsconf.it](http://nodejsconf.it)
 
 ### July 2014
-* **July 4th Weekend** Marin County, CA, USA [NodeConf 2014](http://www.nodeconf.com)
+* **July 4th Weekend** *Marin County, CA, USA* [NodeConf 2014](http://www.nodeconf.com)
