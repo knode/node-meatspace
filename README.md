@@ -47,7 +47,8 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
   * **Berlin, Germany** [NodeCopter](http://nodecopter.com/)
 * *Sept 29th*
   * **Bangalore, India** [Node.js Explorers: Realtime applications using Socket.io](http://www.meetup.com/Node-js-Explorers/events/119252172/)
-
+* *Sept 30th*
+  * **Lyon, France** [Node.js overview with Christophe Porteneuve](http://lyonjs.org/)
 
 
 
