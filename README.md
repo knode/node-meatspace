@@ -11,7 +11,6 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### Upcoming (September 2013)
 
-
 * *Sept 23rd*
   * **San Francisco, CA, USA** [JS Study Group: Algorithms](http://www.meetup.com/hackreactor/events/136865352/)
 * *Sept 24th*
@@ -48,11 +47,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * *Sept 29th*
   * **Bangalore, India** [Node.js Explorers: Realtime applications using Socket.io](http://www.meetup.com/Node-js-Explorers/events/119252172/)
 * *Sept 30th*
-  * **Lyon, France** [Node.js overview with Christophe Porteneuve](http://lyonjs.org/)
-
-
-
-
+  * **Lyon, France** [LyonJS: Node.js overview with Christophe Porteneuve](http://lyonjs.org/)
 
 ### October 2013
 
