@@ -11,8 +11,6 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### Upcoming (September 2013)
 
-* *Sept 23rd*
-  * **San Francisco, CA, USA** [JS Study Group: Algorithms](http://www.meetup.com/hackreactor/events/136865352/)
 * *Sept 24th*
   * **Wellington, New Zealand** [Node.js Wellington](http://www.meetup.com/Node-js-Wellington/events/136895152/)
   * **Philadelphia, Pennsilvania** [Philadelphia JavaScript Developers](http://www.meetup.com/Philadelphia-JavaScript-Developers/events/133393712/)
