@@ -60,6 +60,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * *Oct 8th* **Brisbane, Australia** [BrisJs](http://brisjs.com/)
 * *Oct 8th* **London, England** [The Great British Node Conference](http://greatbritishnodeconf.co.uk/)
 * *Oct 8th* **Minneapolis, Minnesota** [NodeMN User Group Meetup](https://github.com/NodeMN)
+* *Oct 10th* **Bangkok, Thailand** [Bangkok Node.js meetup: RubyJS](http://www.meetup.com/Bangkok-Node-js/events/138715032/)
 * *Oct 12th* **Melbourne, Australia** [NodeBots Day Melbourne](http://nodebotsmelb.eventbrite.com.au/)
 * *Oct 13th* **New York City, NY, USA** [NodeCopter](http://nodecopter.com/)
 * *Oct 16th* **Jacksonville, FL** [Jax Node.js UG: Node.js Group First Meetup](http://www.meetup.com/Jax-Node-js-UG/events/141123342/)
@@ -72,12 +73,14 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 ### November 2013
 
 * *Nov 5th* **Brisbane, Australia** [BrisJs](http://brisjs.com/)
+* *Nov 7th* **Bangkok, Thailand** [Bangkok Node.js meetup](http://www.meetup.com/Bangkok-Node-js/)
 * *Nov 28th* **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
 
 ### December 2013
 
 * *Dec 3rd* **Brisbane, Australia** [BrisJs](http://brisjs.com/)
 * *Dec 3rd-4th* **San Francisco, CA, USA** [Node Summit](http://nodesummit.com/)
+* *Dec 5th* **Bangkok, Thailand** [Bangkok Node.js meetup](http://www.meetup.com/Bangkok-Node-js/)
 * *Dec 6th-7th* **Amelia Island, FL, USA** [RobotsConf](http://robotsconf.com/)
 
 ### January 2014
