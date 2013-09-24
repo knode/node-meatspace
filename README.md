@@ -43,8 +43,14 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
   * **Málaga, Spain** [Node Sol](http://www.meetup.com/Node-Sol/events/138893332/)
 * *Sept 28th*
   * **Sunshine Coast, Australia** [Coding from Beach: Silicon Beach Hackathon](http://www.meetup.com/Coding-from-Beach/events/139148792/)
+  * **Berlin, Germany** [NodeCopter](http://nodecopter.com/)
 * *Sept 29th*
   * **Bangalore, India** [Node.js Explorers: Realtime applications using Socket.io](http://www.meetup.com/Node-js-Explorers/events/119252172/)
+
+
+
+
+
 
 ### October 2013
 
@@ -53,6 +59,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * *Oct 8th* **London, England** [The Great British Node Conference](http://greatbritishnodeconf.co.uk/)
 * *Oct 8th* **Minneapolis, Minnesota** [NodeMN User Group Meetup](https://github.com/NodeMN)
 * *Oct 12th* **Melbourne, Australia** [NodeBots Day Melbourne](http://nodebotsmelb.eventbrite.com.au/)
+* *Oct 13th* **New York City, NY, USA** [NodeCopter](http://nodecopter.com/)
 * *Oct 16th* **Jacksonville, FL** [Jax Node.js UG: Node.js Group First Meetup](http://www.meetup.com/Jax-Node-js-UG/events/141123342/)
 * *Oct 18th-19th* **Portland, Oregon, USA** [The Realtime Conference](http://2013.realtimeconf.com/)
 * *Oct 18th-19th* **Medellín, Colombia** [JSConf Colombia](http://jsconf.co/)
@@ -67,6 +74,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 ### December 2013
 
 * *Dec 3rd-4th* **San Francisco, CA, USA** [Node Summit](http://nodesummit.com/)
+* *Dec 6th-7th* **Amelia Island, FL, USA** [RobotsConf](http://robotsconf.com/)
 
 ### January 2014
 * *Jan 25th* **Brescia, Italy** [nodejsconf.it](http://nodejsconf.it)
