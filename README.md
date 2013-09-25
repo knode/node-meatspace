@@ -62,6 +62,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * *Oct 16th* **San Francisco, CA, USA** [NodeBotsSF October 2013 Meetup - Color Sensor](https://github.com/nodebots/sf/issues/4)
 * *Oct 18th-19th* **Portland, Oregon, USA** [The Realtime Conference](http://2013.realtimeconf.com/)
 * *Oct 18th-19th* **Medellín, Colombia** [JSConf Colombia](http://jsconf.co/)
+* *Oct 19th* **San Mateo, CA, USA** [Node.js MiniConference & LoopBack Hackathon](https://strongloop.eventbrite.com/)
 * *Oct 23rd* **Indianapolis, Indiana, USA** [Node.indy | Indianapolis Node.js Meetup](http://www.meetup.com/Node-indy/events/119911582/)
 * *Oct 23rd* **London, UK** [Node.js User Group Meetup](http://lnug.org/)
 * *Oct 23rd* **Washington, DC, USA** [Node DC, "Experiments with Nodejs, Arduino and Raspberry Pi"](http://www.meetup.com/node-dc/events/140084212/)
