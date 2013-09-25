@@ -34,7 +34,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
   * **Toronto, Canada** [BeerScript](http://www.meetup.com/torontojs/events/136914932/)
   * **Bordeaux, France** [BordeauxJS: Développement Mobile HTML5](http://www.meetup.com/BordeauxJS/events/137641142/)
   * **Singapore** [SingaporeJS Book Club: Functional JavaScript](http://www.meetup.com/Singapore-JS/events/139413902/)
-  * **Lexington, KY** [Kentucky JavaScript Users Group](http://www.meetup.com/Kentucky-JavaScript-Users-Group/events/141287282/)
+  * **Lexington, KY, USA** [Kentucky JavaScript Users Group](http://www.meetup.com/Kentucky-JavaScript-Users-Group/events/141287282/)
   * **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
 * *Sept 27th*
   * **Los Angeles, CA, USA** [JS.LA](http://js.la)
