@@ -11,13 +11,6 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### Upcoming (September 2013)
 
-* *Sept 24th*
-  * **Wellington, New Zealand** [Node.js Wellington](http://www.meetup.com/Node-js-Wellington/events/136895152/)
-  * **Philadelphia, Pennsilvania, USA** [Philadelphia JavaScript Developers](http://www.meetup.com/Philadelphia-JavaScript-Developers/events/133393712/)
-  * **Melbourne, Australia** [Melbourne Node.JS](http://www.meetup.com/MelbNodeJS/events/139384782/)
-  * **San Francisco, CA, USA** [SF JavaScript Meetup: Functional Monthly](http://www.meetup.com/jsmeetup/events/126589972/)
-  * **Mannheim, Germany** [Node.js Mannheim](http://www.meetup.com/node-js-Mannheim/events/139211042/)
-  * **New York, NY, USA** [Nodebots Hacknight | w/special guest Sarah Grant](http://www.meetup.com/nodebots/events/139566532/)
 * *Sept 25th*
   * **London, UK** [Node.js User Group Meetup](http://lnug.org/)
   * **Irvine, CA, USA** [Node.JS OC: Intro to Socket IO](http://www.meetup.com/Node-JS-OC/events/139944872/)
