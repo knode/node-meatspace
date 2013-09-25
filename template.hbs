@@ -35,10 +35,29 @@
         padding-bottom: 6px;
         background: #eee;
       }
+      img.country {
+        max-height:14px;
+        padding-right:2px;
+      }
     </style>
   </head>
   <body>
     <a href="https://github.com/mikeal/node-meatspace"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
   {{{readme}}}
+
+  <script src="countryiso.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+  <script>
+  $(function () {
+    $('strong').each(function () {
+      var str = $(this).text()
+      if (countryiso(str)) {
+        console.log(countryiso(str))
+        $(this).prepend($('<img class="country" src="'+countryiso(str)+'"></img>'))
+      }
+    })
+  })
+  </script>
+
   </body>
 </html>

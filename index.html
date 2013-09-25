@@ -35,6 +35,10 @@
         padding-bottom: 6px;
         background: #eee;
       }
+      img.country {
+        max-height:14px;
+        padding-right:2px;
+      }
     </style>
   </head>
   <body>
@@ -135,6 +139,21 @@
 <ul>
 <li><em>Jul 4th Weekend</em> <strong>Marin County, CA, USA</strong> <a href="http://www.nodeconf.com">NodeConf 2014</a></li>
 </ul>
+
+
+  <script src="countryiso.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+  <script>
+  $(function () {
+    $('strong').each(function () {
+      var str = $(this).text()
+      if (countryiso(str)) {
+        console.log(countryiso(str))
+        $(this).prepend($('<img class="country" src="'+countryiso(str)+'"></img>'))
+      }
+    })
+  })
+  </script>
 
   </body>
 </html>

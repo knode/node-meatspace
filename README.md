@@ -30,7 +30,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
   * **Oakland, California, USA** [JS Study Group](http://www.meetup.com/EBJavaScript/events/139340362/)
   * **Reston, VA, USA** [Reston/Herndon JavaScript Luncheon](http://www.meetup.com/Reston-Herndon-JavaScript-Luncheon/events/138318292/)
   * **Sheffield, UK** [Sheffield.js](http://www.meetup.com/Sheffield-js/events/137475172/)
-  * **Moscow, Russia** [Meteor Moscow](http://www.meetup.com/Meteor-Moscow/events/112063592/)
+  * **Moscow, Russian Federation** [Meteor Moscow](http://www.meetup.com/Meteor-Moscow/events/112063592/)
   * **Toronto, Canada** [BeerScript](http://www.meetup.com/torontojs/events/136914932/)
   * **Bordeaux, France** [BordeauxJS: Développement Mobile HTML5](http://www.meetup.com/BordeauxJS/events/137641142/)
   * **Singapore** [SingaporeJS Book Club: Functional JavaScript](http://www.meetup.com/Singapore-JS/events/139413902/)
