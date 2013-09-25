@@ -21,6 +21,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
   * **Paris, France** [AngularJS Paris](http://www.meetup.com/AngularJS-Paris/events/136217452/)
 * *Sept 26th*
   * **Oakland, California, USA** [JS Study Group](http://www.meetup.com/EBJavaScript/events/139340362/)
+  * **Los Angeles, CA, USA** [JS.LA](http://js.la)
   * **Reston, VA, USA** [Reston/Herndon JavaScript Luncheon](http://www.meetup.com/Reston-Herndon-JavaScript-Luncheon/events/138318292/)
   * **Sheffield, UK** [Sheffield.js](http://www.meetup.com/Sheffield-js/events/137475172/)
   * **Moscow, Russian Federation** [Meteor Moscow](http://www.meetup.com/Meteor-Moscow/events/112063592/)
@@ -30,7 +31,6 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
   * **Lexington, KY, USA** [Kentucky JavaScript Users Group](http://www.meetup.com/Kentucky-JavaScript-Users-Group/events/141287282/)
   * **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
 * *Sept 27th*
-  * **Los Angeles, CA, USA** [JS.LA](http://js.la)
   * **Málaga, Spain** [Node Sol](http://www.meetup.com/Node-Sol/events/138893332/)
 * *Sept 28th*
   * **Sunshine Coast, Australia** [Coding from Beach: Silicon Beach Hackathon](http://www.meetup.com/Coding-from-Beach/events/139148792/)
