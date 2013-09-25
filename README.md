@@ -83,5 +83,8 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 ### January 2014
 * *Jan 25th* **Brescia, Italy** [nodejsconf.it](http://nodejsconf.it)
 
+### April 2014
+* *Apr 26th-27th* **Hamburg, Germany** [JS Unconf](http://2014.jsunconf.eu)
+
 ### July 2014
 * *Jul 4th Weekend* **Marin County, CA, USA** [NodeConf 2014](http://www.nodeconf.com)
