@@ -11,14 +11,6 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### Upcoming (September 2013)
 
-* *Sept 25th*
-  * **London, UK** [Node.js User Group Meetup](http://lnug.org/)
-  * **Irvine, CA, USA** [Node.JS OC: Intro to Socket IO](http://www.meetup.com/Node-JS-OC/events/139944872/)
-  * **Toronto, Canada** [AngularJS Toronto: Back-to-School Meetup](http://www.meetup.com/AngularJS-Toronto/events/138537382/)
-  * **Medellín, Colombia** [MedellínJS Javascript: Modular con Require.js y WebSockets the right way](http://www.meetup.com/MedellinJS/events/140996762/)
-  * **Indianapolis, Indiana, USA** [Node.indy | WebSockets and More](http://www.meetup.com/Node-indy/events/119911552/)
-  * **Leeds, UK** [NodeUpNorth: Are Node Content Management Systems Ready for Prime Time?](http://www.meetup.com/NodeUpNorth/events/140469242/)
-  * **Paris, France** [AngularJS Paris](http://www.meetup.com/AngularJS-Paris/events/136217452/)
 * *Sept 26th*
   * **Oakland, California, USA** [JS Study Group](http://www.meetup.com/EBJavaScript/events/139340362/)
   * **Los Angeles, CA, USA** [JS.LA](http://js.la)
