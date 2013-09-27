@@ -11,17 +11,6 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### Upcoming (September 2013)
 
-* *Sept 26th*
-  * **Oakland, California, USA** [JS Study Group](http://www.meetup.com/EBJavaScript/events/139340362/)
-  * **Los Angeles, CA, USA** [JS.LA](http://js.la)
-  * **Reston, VA, USA** [Reston/Herndon JavaScript Luncheon](http://www.meetup.com/Reston-Herndon-JavaScript-Luncheon/events/138318292/)
-  * **Sheffield, UK** [Sheffield.js](http://www.meetup.com/Sheffield-js/events/137475172/)
-  * **Moscow, Russian Federation** [Meteor Moscow](http://www.meetup.com/Meteor-Moscow/events/112063592/)
-  * **Toronto, Canada** [BeerScript](http://www.meetup.com/torontojs/events/136914932/)
-  * **Bordeaux, France** [BordeauxJS: Développement Mobile HTML5](http://www.meetup.com/BordeauxJS/events/137641142/)
-  * **Singapore** [SingaporeJS Book Club: Functional JavaScript](http://www.meetup.com/Singapore-JS/events/139413902/)
-  * **Lexington, KY, USA** [Kentucky JavaScript Users Group](http://www.meetup.com/Kentucky-JavaScript-Users-Group/events/141287282/)
-  * **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
 * *Sept 27th*
   * **Málaga, Spain** [Node Sol](http://www.meetup.com/Node-Sol/events/138893332/)
 * *Sept 28th*
