@@ -41,7 +41,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * *Oct 8th* **Minneapolis, Minnesota, USA** [NodeMN User Group Meetup](https://github.com/NodeMN)
 * *Oct 8th* **Richmond, VA** [RVA.js Meetup](http://rvajs.com/)
 * *Oct 9th* **Cincinnati, Ohio, USA** [Node.cincy | Cincinnati Node.js Meetup](http://www.meetup.com/Node-cincy/events/140687882/)
-* *Oct 10th* **Bangkok, Thiland** [Bangkok Node.js meetup: RubyJS](http://www.meetup.com/Bangkok-Node-js/events/138715032/)
+* *Oct 10th* **Bangkok, Thailand** [Bangkok Node.js meetup: RubyJS](http://www.meetup.com/Bangkok-Node-js/events/138715032/)
 * *Oct 12th* **Melbourne, Australia** [NodeBots Day Melbourne](http://nodebotsmelb.eventbrite.com.au/)
 * *Oct 13th* **New York City, NY, USA** [NodeCopter](http://nodecopter.com/)
 * *Oct 16th* **Jacksonville, Florida, USA** [Jax Node.js UG: Node.js Group First Meetup](http://www.meetup.com/Jax-Node-js-UG/events/141123342/)
