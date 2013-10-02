@@ -11,9 +11,6 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### This Week
 
-* *Oct 1st*
-  * **Tampa, Florida, USA** [Central Florida Web Developers: KnockoutJS Fundamentals, popular MVVM JavaScript Framework](http://www.meetup.com/florida-web-developers/events/140208852/)
-  * **Austin, Texas, USA** [Austin Backbone.js Ninjas: Realtime Push Notification](http://www.meetup.com/Austin-Backbone-js-Ninjas/events/135669072/)
 * *Oct 2nd*
   * **Portland, Oregon, USA** [PDX Web Dev: Building Real-time Web Apps with WebRTC, AngularJs, Socket.io & NodeJs](http://www.meetup.com/PDX-Web-Development/events/138707752/)
   * **Zagreb, Croatia** [JavaScript Zagreb Drinkup](http://www.meetup.com/JavaScript-Zagreb/events/140313152/)
