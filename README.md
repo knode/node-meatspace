@@ -43,6 +43,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * *Oct 10th* **Bangkok, Thailand** [Bangkok Node.js meetup: RubyJS](http://www.meetup.com/Bangkok-Node-js/events/138715032/)
 * *Oct 12th* **Melbourne, Australia** [NodeBots Day Melbourne](http://nodebotsmelb.eventbrite.com.au/)
 * *Oct 13th* **New York City, NY, USA** [NodeCopter](http://nodecopter.com/)
+* *Oct 15th* **Menlo Park, California, USA** [BayNode Meetup: pkgcloud, JSON-LD, and StatsD](http://www.meetup.com/BayNode/events/141791942/)
 * *Oct 16th* **Jacksonville, Florida, USA** [Jax Node.js UG: Node.js Group First Meetup](http://www.meetup.com/Jax-Node-js-UG/events/141123342/)
 * *Oct 16th* **San Francisco, CA, USA** [NodeBotsSF October 2013 Meetup - Color Sensor](https://github.com/nodebots/sf/issues/4)
 * *Oct 18th-19th* **Portland, Oregon, USA** [The Realtime Conference](http://2013.realtimeconf.com/)
