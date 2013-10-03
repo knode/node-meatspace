@@ -11,13 +11,6 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### This Week
 
-* *Oct 2nd*
-  * **Portland, Oregon, USA** [PDX Web Dev: Building Real-time Web Apps with WebRTC, AngularJs, Socket.io & NodeJs](http://www.meetup.com/PDX-Web-Development/events/138707752/)
-  * **Zagreb, Croatia** [JavaScript Zagreb Drinkup](http://www.meetup.com/JavaScript-Zagreb/events/140313152/)
-  * **Atlanta, Georgia, USA** [Atlanta MEAN](http://www.meetup.com/meansters/events/138156152/)
-  * **Linz, Austria** [stahlstadt.js initial commit - first meetup](http://www.meetup.com/stahlstadt-js/events/138293682/)
-  * **Hong Kong, China** [HK Web Developers: Browser side encryption, web workers, NodeJS & an introduction to ThreeJS](http://www.meetup.com/HK-Web-Developers/events/139597242/)
-  * **Brussels, Belgium** [Belgian node.js: Node.js and mainstream media](http://www.meetup.com/Belgian-node-js-User-Group/events/140207802/)
 * *Oct 3rd*
   * **Washington, DC, USA** [Node DC, "NationJS lightning talks"](http://www.meetup.com/node-dc/events/139465312/)
   * **San Francisco, CA, USA** [JS Study Group for Women](http://www.meetup.com/hackreactor/events/139428122/)
