@@ -50,6 +50,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * *Dec 3rd* **Brisbane, Australia** [BrisJs](http://brisjs.com/)
 * *Dec 3rd-4th* **San Francisco, CA, USA** [Node Summit](http://nodesummit.com/)
 * *Dec 5th* **Bangkok, Thailand** [Bangkok Node.js meetup](http://www.meetup.com/Bangkok-Node-js/)
+* *Dec 5th* **Montevideo, Uruguay** [Montevideo JS Meetup](http://www.meetup.com/mvd-js/events/143854482/)
 * *Dec 6th-7th* **Amelia Island, FL, USA** [RobotsConf](http://robotsconf.com/)
 
 ### January 2014
