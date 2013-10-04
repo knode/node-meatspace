@@ -55,6 +55,9 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 ### January 2014
 * *Jan 25th* **Brescia, Italy** [nodejsconf.it](http://nodejsconf.it)
 
+### March 2014
+* *Mar 14th-15th* **Montevideo, Uruguay** [JSConf](http://jsconf.uy)
+
 ### April 2014
 * *Apr 26th-27th* **Hamburg, Germany** [JS Unconf](http://2014.jsunconf.eu)
 
