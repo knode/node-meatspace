@@ -11,15 +11,6 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### This Week
 
-* *Oct 3rd*
-  * **Washington, DC, USA** [Node DC, "NationJS lightning talks"](http://www.meetup.com/node-dc/events/139465312/)
-  * **San Francisco, CA, USA** [JS Study Group for Women](http://www.meetup.com/hackreactor/events/139428122/)
-  * **Oakland, CA, USA** [East Bay JS Study Group ](http://www.meetup.com/EBJavaScript/events/140665292/)
-  * **Washington, DC, USA** [node.dc: NationJS Lightning Talks/Meet and Greet](http://www.meetup.com/node-dc/events/139465312/)
-  * **Santa Monica, CA, USA** [SoCal AngularJS](http://www.meetup.com/socal-angular/events/141877102/)
-  * **Singapore** [SingaporeJS Book Club: Functional JavaScript](http://www.meetup.com/Singapore-JS/events/142348162/)
-  * **Austin, TX, USA** [JS Austin Meetup: Building a custom Mobile Backend on Rackspace w/ StrongLoop](http://www.meetup.com/javascript-austin/events/142585942/)
-  * **Montevideo, Uruguay** [Montevideo JS Meetup](http://www.meetup.com/mvd-js/events/133145132/)
 * *Oct 4th*
   * **Lisbon, Portugal** [Nodecopter LX](http://nodecopter.pt/)
   * **Málaga, Spain** [Node Sol](http://www.meetup.com/Node-Sol/events/140462362/)
