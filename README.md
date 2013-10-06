@@ -11,22 +11,30 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### This Week
 
-* *Oct 4th*
-  * **Lisbon, Portugal** [Nodecopter LX](http://nodecopter.pt/)
-  * **Málaga, Spain** [Node Sol](http://www.meetup.com/Node-Sol/events/140462362/)
-* *Oct 5th*
-  * **Bangalore, India** [JavaScript Ninjas @ Bangalore: Native vs Web Applications in Mobile](http://www.meetup.com/JavaScript-Ninjas-Bangalore/events/140170472/)
-  * **Tucumán, Argentina** [TucJS: Bases de Datos con NodeJS (Workshop)](http://www.meetup.com/Tuc-JS/events/137334782/)
+* *Oct 7th*
+ * **Singapore** [SingaporeJS: talk.js](http://www.meetup.com/Singapore-JS/events/141715672/)
+ * **San Francisco, USA** [Hack Reactor JS Study Group: Algorithms](http://www.meetup.com/hackreactor/events/139072902/)
+* *Oct 8th*
+ * **Brisbane, Australia** [BrisJs](http://brisjs.com/)
+ * **London, UK** [The Great British Node Conference](http://greatbritishnodeconf.co.uk/)
+ * **Minneapolis, Minnesota, USA** [NodeMN User Group Meetup](https://github.com/NodeMN)
+ * **Richmond, VA** [RVA.js Meetup](http://rvajs.com/)
+ * **San Francisco, USA** [Hack Reactor: Math for Hackers 2.0](http://www.meetup.com/hackreactor/events/141906012/)
+* *Oct 9th*
+ * **Cincinnati, Ohio, USA** [Node.cincy | Cincinnati Node.js Meetup](http://www.meetup.com/Node-cincy/events/140687882/)
+* *Oct 10th*
+ * **Bangkok, Thailand** [Bangkok Node.js meetup: RubyJS](http://www.meetup.com/Bangkok-Node-js/events/138715032/)
+ * **San Francisco, USA** [Hack Reactor JS Study Group for Women](http://www.meetup.com/hackreactor/events/142435572/)
+ * **Singapore** [SingaporeJS Book Club: Functional JavaScript](http://www.meetup.com/Singapore-JS/events/140322822/)
+* *Oct 11th*
+ * **Málaga, Spain** [Hablar de node!](http://www.meetup.com/Node-Sol/events/142306162/)
+* *Oct 12th*
+ * **Melbourne, Australia** [NodeBots Day Melbourne](http://nodebotsmelb.eventbrite.com.au/)
+* *Oct 13th*
+ * **New York City, NY, USA** [NodeCopter](http://nodecopter.com/)
 
 ### October 2013
-* *Oct 8th* **Brisbane, Australia** [BrisJs](http://brisjs.com/)
-* *Oct 8th* **London, UK** [The Great British Node Conference](http://greatbritishnodeconf.co.uk/)
-* *Oct 8th* **Minneapolis, Minnesota, USA** [NodeMN User Group Meetup](https://github.com/NodeMN)
-* *Oct 8th* **Richmond, VA** [RVA.js Meetup](http://rvajs.com/)
-* *Oct 9th* **Cincinnati, Ohio, USA** [Node.cincy | Cincinnati Node.js Meetup](http://www.meetup.com/Node-cincy/events/140687882/)
-* *Oct 10th* **Bangkok, Thailand** [Bangkok Node.js meetup: RubyJS](http://www.meetup.com/Bangkok-Node-js/events/138715032/)
-* *Oct 12th* **Melbourne, Australia** [NodeBots Day Melbourne](http://nodebotsmelb.eventbrite.com.au/)
-* *Oct 13th* **New York City, NY, USA** [NodeCopter](http://nodecopter.com/)
+
 * *Oct 15th* **Menlo Park, California, USA** [BayNode Meetup: pkgcloud, JSON-LD, and StatsD](http://www.meetup.com/BayNode/events/141791942/)
 * *Oct 16th* **Jacksonville, Florida, USA** [Jax Node.js UG: Node.js Group First Meetup](http://www.meetup.com/Jax-Node-js-UG/events/141123342/)
 * *Oct 16th* **San Francisco, CA, USA** [NodeBotsSF October 2013 Meetup - Color Sensor](https://github.com/nodebots/sf/issues/4)
