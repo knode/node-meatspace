@@ -20,6 +20,8 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
  * **Minneapolis, Minnesota, USA** [NodeMN User Group Meetup](https://github.com/NodeMN)
  * **Richmond, VA** [RVA.js Meetup](http://rvajs.com/)
  * **San Francisco, USA** [Hack Reactor: Math for Hackers 2.0](http://www.meetup.com/hackreactor/events/141906012/)
+* *Oct 8th-11th*
+ * **Guatemala city, Guatemala** [Foro Innovación Tecnológica / NodeBots Guatemala](http://fit.galileo.edu)
 * *Oct 9th*
  * **Cincinnati, Ohio, USA** [Node.cincy | Cincinnati Node.js Meetup](http://www.meetup.com/Node-cincy/events/140687882/)
 * *Oct 10th*
