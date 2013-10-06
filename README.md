@@ -36,6 +36,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * *Oct 23rd* **Indianapolis, Indiana, USA** [Node.indy | Indianapolis Node.js Meetup](http://www.meetup.com/Node-indy/events/119911582/)
 * *Oct 23rd* **London, UK** [Node.js User Group Meetup](http://lnug.org/)
 * *Oct 23rd* **Washington, DC, USA** [Node DC, "Experiments with Nodejs, Arduino and Raspberry Pi"](http://www.meetup.com/node-dc/events/140084212/)
+* *Oct 23rd* **Melbourne, Australia** [Melbourne Node.js Meetup](http://www.meetup.com/MelbNodeJS/events/142955402/)
 * *Oct 26th* **Tokyo, Japan** [Nodefest 2013](http://nodefest.jp/)
 * *Oct 31st* **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
 
