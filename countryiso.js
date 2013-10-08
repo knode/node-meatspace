@@ -12,7 +12,7 @@ var iso = _.object(_.map(f.split('\n'), function (line) { return line.split(';')
 
 // Additions
 iso['USA'] = 'us'
-iso['UK'] = 'gm'
+iso['UK'] = 'gb'
 
 var riso = _.invert(iso)
   ;
