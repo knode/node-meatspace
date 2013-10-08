@@ -11,9 +11,6 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### This Week
 
-* *Oct 7th*
- * **Singapore** [SingaporeJS: talk.js](http://www.meetup.com/Singapore-JS/events/141715672/)
- * **San Francisco, USA** [Hack Reactor JS Study Group: Algorithms](http://www.meetup.com/hackreactor/events/139072902/)
 * *Oct 8th*
  * **Brisbane, Australia** [BrisJs](http://brisjs.com/)
  * **London, UK** [The Great British Node Conference](http://greatbritishnodeconf.co.uk/)
