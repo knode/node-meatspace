@@ -39,6 +39,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * *Oct 16th* **Jacksonville, FL, USA** [Jax Node.js UG: Node.js Group First Meetup](http://www.meetup.com/Jax-Node-js-UG/events/141123342/)
 * *Oct 16th* **San Francisco, CA, USA** [NodeBotsSF: Color Sensor](https://github.com/nodebots/sf/issues/4)
 * *Oct 16th* **Austin, TX, USA** [Backbone.js Ninjas: Realtime Push Notification w/ Backbone](http://www.meetup.com/Austin-Backbone-js-Ninjas/events/135669072/)
+* *Oct 17th* **Saint Louis, MO, USA** [STLJS: Hapi – Node.js Framework for Apps and Services](http://www.meetup.com/STL-JS-meetup/events/140877042/)
 * *Oct 17th* **San Francisco, CA, USA** [Hack Reactor JS Study Group for Women](http://www.meetup.com/hackreactor/events/139310192/)
 * *Oct 17th* **Singapore** [SingaporeJS Book Club: Functional JavaScript](http://www.meetup.com/Singapore-JS/events/144107362/)
 * *Oct 18th* **Málaga, Spain** [Node Sol: Hablar de node!](http://www.meetup.com/Node-Sol/events/142306412/)
@@ -57,6 +58,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 * *Nov 5th* **Brisbane, Australia** [BrisJs](http://brisjs.com/)
 * *Nov 7th* **Bangkok, Thailand** [Bangkok Node.js meetup](http://www.meetup.com/Bangkok-Node-js/)
+* *Nov 21* **Saint Louis, MO, USA** [STLJS: Node.js and Drupal — Working Together](http://www.meetup.com/STL-JS-meetup/events/123511772/)
 * *Nov 28th* **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
 
 ### December 2013
