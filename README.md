@@ -13,8 +13,6 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 * *Oct 8th-11th*
  * **Guatemala City, Guatemala** [Foro Innovación Tecnológica / NodeBots Guatemala](http://fit.galileo.edu)
-* *Oct 9th*
- * **Cincinnati, Ohio, USA** [Node.cincy | Cincinnati Node.js Meetup](http://www.meetup.com/Node-cincy/events/140687882/)
 * *Oct 10th*
  * **Bangkok, Thailand** [Bangkok Node.js meetup: RubyJS](http://www.meetup.com/Bangkok-Node-js/events/138715032/)
  * **San Francisco, USA** [Hack Reactor JS Study Group for Women](http://www.meetup.com/hackreactor/events/142435572/)
