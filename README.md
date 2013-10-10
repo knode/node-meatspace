@@ -72,5 +72,8 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 ### April 2014
 * *Apr 26th-27th* **Hamburg, Germany** [JS Unconf](http://2014.jsunconf.eu)
 
+### May 2014
+* *May 22nd-23rd* **Oslo, Norway** [Web Rebels](http://webrebels.org/)
+
 ### July 2014
 * *Jul 4th Weekend* **Marin County, CA, USA** [NodeConf 2014](http://www.nodeconf.com)
