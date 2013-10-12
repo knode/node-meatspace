@@ -44,7 +44,9 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * *Oct 23rd* **Melbourne, Australia** [Melbourne Node.js Meetup](http://www.meetup.com/MelbNodeJS/events/142955402/)
 * *Oct 24th* **Los Angeles, CA, USA** [JS.LA](http://js.la/)
 * *Oct 26th* **Tokyo, Japan** [Nodefest 2013](http://nodefest.jp/)
+* *Oct 30th* **Leeds, UK** [NodeUpNorth: Node, Kickstarter and the NFC Ring](http://www.meetup.com/NodeUpNorth/)
 * *Oct 31st* **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
+* *Oct 31st* **Sheffield, UK** [Sheffield.js: Talk night #3](http://www.meetup.com/Sheffield-js/)
 
 ### November 2013
 
