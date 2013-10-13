@@ -31,6 +31,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * *Oct 16th* **Jacksonville, FL, USA** [Jax Node.js UG: Node.js Group First Meetup](http://www.meetup.com/Jax-Node-js-UG/events/141123342/)
 * *Oct 16th* **San Francisco, CA, USA** [NodeBotsSF: Color Sensor](https://github.com/nodebots/sf/issues/4)
 * *Oct 16th* **Austin, TX, USA** [Backbone.js Ninjas: Realtime Push Notification w/ Backbone](http://www.meetup.com/Austin-Backbone-js-Ninjas/events/135669072/)
+* *Oct 16th* **Boston, MA, USA** [Node.js in the wild: How to write an API in one minute using CouchDB](http://www.meetup.com/Node-js-in-the-wild/events/136219222/)
 * *Oct 17th* **Saint Louis, MO, USA** [STLJS: Hapi – Node.js Framework for Apps and Services](http://www.meetup.com/STL-JS-meetup/events/140877042/)
 * *Oct 17th* **San Francisco, CA, USA** [Hack Reactor JS Study Group for Women](http://www.meetup.com/hackreactor/events/139310192/)
 * *Oct 17th* **Singapore** [SingaporeJS Book Club: Functional JavaScript](http://www.meetup.com/Singapore-JS/events/144107362/)
