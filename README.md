@@ -47,6 +47,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 * *Nov 5th* **Brisbane, Australia** [BrisJs](http://brisjs.com/)
 * *Nov 7th* **Bangkok, Thailand** [Bangkok Node.js meetup](http://www.meetup.com/Bangkok-Node-js/)
+* *Nov 13th* **Cincinnati, OH, USA** [Node.cincy: Node.js Rocks](http://www.meetup.com/Node-cincy/events/qcnhgdyrpbrb/)
 * *Nov 21st* **Saint Louis, MO, USA** [STLJS: Node.js and Drupal — Working Together](http://www.meetup.com/STL-JS-meetup/events/123511772/)
 * *Nov 28th* **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
 
@@ -57,8 +58,10 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * *Dec 5th* **Bangkok, Thailand** [Bangkok Node.js meetup](http://www.meetup.com/Bangkok-Node-js/)
 * *Dec 5th* **Montevideo, Uruguay** [Montevideo JS Meetup](http://www.meetup.com/mvd-js/events/143854482/)
 * *Dec 6th-7th* **Amelia Island, FL, USA** [RobotsConf](http://robotsconf.com/)
+* *Dec 11th* **Cincinnati, OH, USA** [Node.cincy: Node.js Rocks](http://www.meetup.com/Node-cincy/events/qcnhgdyrqbpb/)
 
 ### January 2014
+* *Jan 8th* **Cincinnati, OH, USA** [Node.cincy: Node.js Rocks](http://www.meetup.com/Node-cincy/events/qcnhgdyscblb/)
 * *Jan 25th* **Brescia, Italy** [nodejsconf.it](http://nodejsconf.it)
 
 ### March 2014
