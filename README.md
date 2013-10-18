@@ -47,6 +47,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 * *Nov 5th* **Brisbane, Australia** [BrisJs](http://brisjs.com/)
 * *Nov 7th* **Bangkok, Thailand** [Bangkok Node.js meetup](http://www.meetup.com/Bangkok-Node-js/)
+* *Nov 12th* **Minneapolis, MN** [NodeMN meetup](http://www.meetup.com/NodeMN/)
 * *Nov 21st* **Saint Louis, MO, USA** [STLJS: Node.js and Drupal — Working Together](http://www.meetup.com/STL-JS-meetup/events/123511772/)
 * *Nov 28th* **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
 
