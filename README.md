@@ -50,6 +50,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * *Dec 5th* **Montevideo, Uruguay** [Montevideo JS Meetup](http://www.meetup.com/mvd-js/events/143854482/)
 * *Dec 6th-7th* **Amelia Island, FL, USA** [RobotsConf](http://robotsconf.com/)
 * *Dec 11th* **Cincinnati, OH, USA** [Node.cincy: Node.js Rocks](http://www.meetup.com/Node-cincy/events/qcnhgdyrqbpb/)
+* *Dec 12th* **Munich, Germany** [Munich Node.js User Group](http://www.mnug.de/)
 
 ### January 2014
 * *Jan 8th* **Cincinnati, OH, USA** [Node.cincy: Node.js Rocks](http://www.meetup.com/Node-cincy/events/qcnhgdyscblb/)
