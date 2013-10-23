@@ -25,6 +25,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
  * **Seattle, WA, USA** [Seattle Software Craftsmanship: Taking JavaScript Seriously](http://www.meetup.com/seattle-software-craftsmanship/events/143419342/)
 * *Oct 25th*
  * **Málaga, Spain** [Node Sol: Hablar de node!](http://www.meetup.com/Node-Sol/events/142306452/)
+ * **Kansas City, MO, USA** [Kauffman Labs Coding Workshop - Node.js](http://www.cvent.com/events/kauffman-labs-coding-workshop-node-js/event-summary-a415e1196ff94ac795afdbe8ad868a0f.aspx)
 * *Oct 26th*
  * **Tokyo, Japan** [Nodefest 2013](http://nodefest.jp/)
 
