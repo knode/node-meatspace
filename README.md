@@ -64,6 +64,8 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * *Feb 2nd* **Brussels, Belgium** [FOSDEM: JavaScript devroom](http://fosdem14-js-devroom.github.io/)
 
 ### March 2014
+* *Mar 9th* **San Francisco, CA, USA** [JSFest: Evolution of Experience](http://jsfest.com/)
+* *Mar 10th* **San Francisco, CA, USA** [JSFest: Scaling Up and Down](http://jsfest.com/)
 * *Mar 14th-15th* **Montevideo, Uruguay** [JSConf](http://jsconf.uy)
 
 ### April 2014
