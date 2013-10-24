@@ -60,6 +60,9 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * *Jan 8th* **Cincinnati, OH, USA** [Node.cincy: Node.js Rocks](http://www.meetup.com/Node-cincy/events/qcnhgdyscblb/)
 * *Jan 25th* **Brescia, Italy** [nodejsconf.it](http://nodejsconf.it)
 
+### February 2014
+* *Feb 2nd* **Brussels, Belgium** [FOSDEM: JavaScript devroom](http://fosdem14-js-devroom.github.io/)
+
 ### March 2014
 * *Mar 14th-15th* **Montevideo, Uruguay** [JSConf](http://jsconf.uy)
 
