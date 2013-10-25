@@ -32,6 +32,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 ### October 2013
 
 * *Oct 30th* **Leeds, UK** [NodeUpNorth: Node, Kickstarter and the NFC Ring](http://www.meetup.com/NodeUpNorth/)
+* *Oct 30th* **Oslo, Norway** [Framsia meetup: OOCSS and Real-Time Web](http://www.meetup.com/framsia/events/145829052/)
 * *Oct 31st* **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
 * *Oct 31st* **Sheffield, UK** [Sheffield.js: Talk night #3](http://www.meetup.com/Sheffield-js/)
 
@@ -39,6 +40,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 * *Nov 5th* **Brisbane, Australia** [BrisJs](http://brisjs.com/)
 * *Nov 7th* **Bangkok, Thailand** [Bangkok Node.js meetup](http://www.meetup.com/Bangkok-Node-js/)
+* *Nov 7th* **Oslo, Norway** [Framsia meetup: An evening with Brendan Eich](http://www.meetup.com/framsia/events/147208922/)
 * *Nov 9th* **London, UK** [NodeBots of London meetup](http://www.meetup.com/NodeBots-of-London/events/146831462)
 * *Nov 9th-11th* **Beijing, China** [JingJS](http://jingjs.org/)
 * *Nov 13th* **Cincinnati, OH, USA** [Node.cincy: Node.js Rocks](http://www.meetup.com/Node-cincy/events/qcnhgdyrpbrb/)
