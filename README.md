@@ -32,7 +32,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 ### October 2013
 
 * *Oct 30th* **Leeds, UK** [NodeUpNorth: Node, Kickstarter and the NFC Ring](http://www.meetup.com/NodeUpNorth/)
-* *Oct 30th* **Oslo, Norway [Framsia meetup: OOCSS and Real-Time Web](http://www.meetup.com/framsia/events/145829052/)
+* *Oct 30th* **Oslo, Norway** [Framsia meetup: OOCSS and Real-Time Web](http://www.meetup.com/framsia/events/145829052/)
 * *Oct 31st* **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
 * *Oct 31st* **Sheffield, UK** [Sheffield.js: Talk night #3](http://www.meetup.com/Sheffield-js/)
 
