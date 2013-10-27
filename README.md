@@ -11,29 +11,19 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### This Week
 
-* *Oct 21st*
- * **Atlanta, CA, USA** [Atlanta JavaScript: Realtime Embedded Systems with Javascript](http://www.meetup.com/AtlantaJavaScript/events/108340372/)
-* *Oct 23rd*
- * **Indianapolis, Indiana, USA** [Node.indy: Indianapolis Node.js Meetup](http://www.meetup.com/Node-indy/events/119911582/)
- * **London, UK** [Node.js User Group Meetup](http://lnug.org/)
- * **Washington, DC, USA** [Node DC: Experiments with Nodejs, Arduino and Raspberry Pi](http://www.meetup.com/node-dc/events/140084212/)
- * **Melbourne, Australia** [Melbourne Node.js Meetup](http://www.meetup.com/MelbNodeJS/events/142955402/)
- * **San Francisco, CA, USA** [JS Study Group: Algorithms](http://www.meetup.com/hackreactor/events/138146392/)
-* *Oct 24th*
- * **Singapore** [SingaporeJS Book Club: Functional JavaScript](http://www.meetup.com/Singapore-JS/events/144107602/)
- * **Los Angeles, CA, USA** [JS.LA](http://js.la/)
- * **Seattle, WA, USA** [Seattle Software Craftsmanship: Taking JavaScript Seriously](http://www.meetup.com/seattle-software-craftsmanship/events/143419342/)
-* *Oct 25th*
- * **Málaga, Spain** [Node Sol: Hablar de node!](http://www.meetup.com/Node-Sol/events/142306452/)
- * **Kansas City, MO, USA** [Kauffman Labs Coding Workshop - Node.js](http://www.cvent.com/events/kauffman-labs-coding-workshop-node-js/event-summary-a415e1196ff94ac795afdbe8ad868a0f.aspx)
-* *Oct 26th*
- * **Tokyo, Japan** [Nodefest 2013](http://nodefest.jp/)
-
-### October 2013
-
-* *Oct 30th* **Leeds, UK** [NodeUpNorth: Node, Kickstarter and the NFC Ring](http://www.meetup.com/NodeUpNorth/)
-* *Oct 31st* **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
-* *Oct 31st* **Sheffield, UK** [Sheffield.js: Talk night #3](http://www.meetup.com/Sheffield-js/)
+* *Oct 28th*
+* **New York, NY, USA** [NYC MySQL Group: Node.js & NoSQL](http://www.meetup.com/mysqlnyc/events/146238992/)
+* *Oct 29th*
+* **San Francisco, CA, USA** [SF JavaScript Meetup: Functional Monthly](http://www.meetup.com/jsmeetup/events/126589972/)
+* *Oct 30th*
+ * **Leeds, UK** [NodeUpNorth: Node, Kickstarter and the NFC Ring](http://www.meetup.com/NodeUpNorth/)
+ * **Hong Kong, China** [HK Web Developers: Multiplayer Pong w/h Node, Express, and Socket.io](http://www.meetup.com/HK-Web-Developers/events/140523082/)
+* *Oct 31st*
+ * **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
+ * **Sheffield, UK** [Sheffield.js: Talk night #3](http://www.meetup.com/Sheffield-js/)
+ * **Singapore, Singapore** [SingaporeJS: Book Club](http://www.meetup.com/Singapore-JS/events/144107622/)
+* *Nov 1st*
+ * **Málaga, Spain** [Node Sol](http://www.meetup.com/Node-Sol/events/qvkwtgyrpbcb/)
 
 ### November 2013
 
