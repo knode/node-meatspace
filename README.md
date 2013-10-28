@@ -27,6 +27,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### November 2013
 
+* *Nov 4th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *Nov 5th* **Brisbane, Australia** [BrisJs](http://brisjs.com/)
 * *Nov 7th* **Bangkok, Thailand** [Bangkok Node.js meetup](http://www.meetup.com/Bangkok-Node-js/)
 * *Nov 7th* **Oslo, Norway** [Framsia meetup: An evening with Brendan Eich](http://www.meetup.com/framsia/events/147208922/)
@@ -40,6 +41,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### December 2013
 
+* *Dec 2th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *Dec 3rd* **Brisbane, Australia** [BrisJs](http://brisjs.com/)
 * *Dec 3rd-4th* **San Francisco, CA, USA** [Node Summit](http://nodesummit.com/)
 * *Dec 5th* **Bangkok, Thailand** [Bangkok Node.js meetup](http://www.meetup.com/Bangkok-Node-js/)
@@ -49,22 +51,31 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * *Dec 12th* **Munich, Germany** [Munich Node.js User Group](http://www.mnug.de/)
 
 ### January 2014
+* *Jan 6th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *Jan 8th* **Cincinnati, OH, USA** [Node.cincy: Node.js Rocks](http://www.meetup.com/Node-cincy/events/qcnhgdyscblb/)
 * *Jan 25th* **Brescia, Italy** [nodejsconf.it](http://nodejsconf.it)
 
 ### February 2014
 * *Feb 2nd* **Brussels, Belgium** [FOSDEM: JavaScript devroom](http://fosdem14-js-devroom.github.io/)
+* *Feb 3th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 
 ### March 2014
+* *Mar 3th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *Mar 9th* **San Francisco, CA, USA** [JSFest: Evolution of Experience](http://jsfest.com/)
 * *Mar 10th* **San Francisco, CA, USA** [JSFest: Scaling Up and Down](http://jsfest.com/)
 * *Mar 14th-15th* **Montevideo, Uruguay** [JSConf](http://jsconf.uy)
 
 ### April 2014
+* *Apr 7th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *Apr 26th-27th* **Hamburg, Germany** [JS Unconf](http://2014.jsunconf.eu)
 
 ### May 2014
+* *May 5th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *May 22nd-23rd* **Oslo, Norway** [Web Rebels](http://webrebels.org/)
+
+### June 2014
+* *Jun 2th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 
 ### July 2014
 * *Jul 4th Weekend* **Marin County, CA, USA** [NodeConf 2014](http://www.nodeconf.com)
+* *Jul 7th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
