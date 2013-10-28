@@ -15,6 +15,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * **New York, NY, USA** [NYC MySQL Group: Node.js & NoSQL](http://www.meetup.com/mysqlnyc/events/146238992/)
 * *Oct 29th*
 * **San Francisco, CA, USA** [SF JavaScript Meetup: Functional Monthly](http://www.meetup.com/jsmeetup/events/126589972/)
+* **San Francisco, CA, USA** [Mojo.js Meetup at ClassDojo: Introducing Mojo.js](http://lanyrd.com/2013/mojojs/)
 * *Oct 30th*
  * **Leeds, UK** [NodeUpNorth: Node, Kickstarter and the NFC Ring](http://www.meetup.com/NodeUpNorth/)
  * **Hong Kong, China** [HK Web Developers: Multiplayer Pong w/h Node, Express, and Socket.io](http://www.meetup.com/HK-Web-Developers/events/140523082/)
