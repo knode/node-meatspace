@@ -25,6 +25,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
  * **Austin, TX, USA** [JavaScript Austin: DISTRIBUTE ALL THE THING](http://www.meetup.com/javascript-austin/events/149210932/)
 * *Nov 8th*
  * **Málaga, Spain** [Node Sol, Hablar de node!](http://www.meetup.com/Node-Sol/events/143592222/)
+ * **Chicago, IL, USA** [Chicago Node.js: Node Knockout at Groupon](http://www.meetup.com/Chicago-Nodejs/events/149178302/)
 * *Nov 9th*
  * **London, UK** [NodeBots of London meetup](http://www.meetup.com/NodeBots-of-London/events/146831462)
 * *Nov 9th-11th*
@@ -35,6 +36,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * *Nov 13th* **Cincinnati, OH, USA** [Node.cincy: Node.js Rocks](http://www.meetup.com/Node-cincy/events/qcnhgdyrpbrb/)
 * *Nov 19th* **Kansas City, MO, USA** [Grunt, Brunch, and other node build processes](http://www.meetup.com/nodekc/events/145848952/)
 * *Nov 19th* **Budapest, Hungary** [Budapest Node.js meetup](http://www.meetup.com/nodejsbp/events/145101952/)
+* *Nov 19th* **Chicago, IL, USA** [Chicago Node.js: Node Knockout Recap](http://www.meetup.com/Chicago-Nodejs/events/138383212/)
 * *Nov 20th* **Philadelphia, PA, USA** [Philly Node - Hack and Hops](http://nodephilly.ticketleap.com/hackandhops/)
 * *Nov 21st* **Saint Louis, MO, USA** [STLJS: Node.js and Drupal — Working Together](http://www.meetup.com/STL-JS-meetup/events/123511772/)
 * *Nov 28th* **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
