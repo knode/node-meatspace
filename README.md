@@ -11,29 +11,27 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### This Week
 
-* *Oct 28th*
-* **New York, NY, USA** [NYC MySQL Group: Node.js & NoSQL](http://www.meetup.com/mysqlnyc/events/146238992/)
-* *Oct 29th*
-* **San Francisco, CA, USA** [SF JavaScript Meetup: Functional Monthly](http://www.meetup.com/jsmeetup/events/126589972/)
-* **San Francisco, CA, USA** [Mojo.js Meetup at ClassDojo: Introducing Mojo.js](http://lanyrd.com/2013/mojojs/)
-* *Oct 30th*
- * **Leeds, UK** [NodeUpNorth: Node, Kickstarter and the NFC Ring](http://www.meetup.com/NodeUpNorth/)
- * **Hong Kong, China** [HK Web Developers: Multiplayer Pong w/h Node, Express, and Socket.io](http://www.meetup.com/HK-Web-Developers/events/140523082/)
-* *Oct 31st*
- * **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
- * **Sheffield, UK** [Sheffield.js: Talk night #3](http://www.meetup.com/Sheffield-js/)
- * **Singapore, Singapore** [SingaporeJS: Book Club](http://www.meetup.com/Singapore-JS/events/144107622/)
-* *Nov 1st*
- * **Málaga, Spain** [Node Sol](http://www.meetup.com/Node-Sol/events/qvkwtgyrpbcb/)
+* *Nov 4th*
+ * **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
+* *Nov 5th*
+ * **Brisbane, Australia** [BrisJs](http://brisjs.com/)
+ * **Tampa, FL, USA** [Central Florida Web Developers User Group Breaking Silos: The Blurring Lines of Digital Interaction](http://www.meetup.com/florida-web-developers/events/144990452/)
+* *Nov 6th*
+ * **Zagreb, Croatia** [JavaScript Zagreb](http://www.meetup.com/JavaScript-Zagreb/events/140520522/)
+ * **Portland, OR, USA** [PDX Web Development Hack Night](http://www.meetup.com/PDX-Web-Development/events/146482512/)
+* *Nov 7th*
+ * **Bangkok, Thailand** [Bangkok Node.js meetup](http://www.meetup.com/Bangkok-Node-js/)
+ * **Oslo, Norway** [Framsia meetup: An evening with Brendan Eich](http://www.meetup.com/framsia/events/147208922/)
+ * **Austin, TX, USA** [JavaScript Austin: DISTRIBUTE ALL THE THING](http://www.meetup.com/javascript-austin/events/149210932/)
+* *Nov 8th*
+ * **Málaga, Spain** [Node Sol, Hablar de node!](http://www.meetup.com/Node-Sol/events/143592222/)
+* *Nov 9th*
+ * **London, UK** [NodeBots of London meetup](http://www.meetup.com/NodeBots-of-London/events/146831462)
+* *Nov 9th-11th*
+ * **Beijing, China** [JingJS](http://jingjs.org/)
 
 ### November 2013
 
-* *Nov 4th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
-* *Nov 5th* **Brisbane, Australia** [BrisJs](http://brisjs.com/)
-* *Nov 7th* **Bangkok, Thailand** [Bangkok Node.js meetup](http://www.meetup.com/Bangkok-Node-js/)
-* *Nov 7th* **Oslo, Norway** [Framsia meetup: An evening with Brendan Eich](http://www.meetup.com/framsia/events/147208922/)
-* *Nov 9th* **London, UK** [NodeBots of London meetup](http://www.meetup.com/NodeBots-of-London/events/146831462)
-* *Nov 9th-11th* **Beijing, China** [JingJS](http://jingjs.org/)
 * *Nov 13th* **Cincinnati, OH, USA** [Node.cincy: Node.js Rocks](http://www.meetup.com/Node-cincy/events/qcnhgdyrpbrb/)
 * *Nov 19th* **Kansas City, MO, USA** [Grunt, Brunch, and other node build processes](http://www.meetup.com/nodekc/events/145848952/)
 * *Nov 19th* **Budapest, Hungary** [Budapest Node.js meetup](http://www.meetup.com/nodejsbp/events/145101952/)
