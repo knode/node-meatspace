@@ -34,6 +34,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 ### November 2013
 
 * *Nov 13th* **Cincinnati, OH, USA** [Node.cincy: Node.js Rocks](http://www.meetup.com/Node-cincy/events/qcnhgdyrpbrb/)
+* *Nov 14th* **Brooklyn, NY, USA** [Brooklyn.js](http://brooklynjs.com/)
 * *Nov 19th* **Kansas City, MO, USA** [Grunt, Brunch, and other node build processes](http://www.meetup.com/nodekc/events/145848952/)
 * *Nov 19th* **Budapest, Hungary** [Budapest Node.js meetup](http://www.meetup.com/nodejsbp/events/145101952/)
 * *Nov 19th* **Chicago, IL, USA** [Chicago Node.js: Node Knockout Recap](http://www.meetup.com/Chicago-Nodejs/events/138383212/)
