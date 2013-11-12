@@ -11,36 +11,26 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### This Week
 
-* *Nov 4th*
- * **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
-* *Nov 5th*
- * **Brisbane, Australia** [BrisJs](http://brisjs.com/)
- * **Tampa, FL, USA** [Central Florida Web Developers User Group Breaking Silos: The Blurring Lines of Digital Interaction](http://www.meetup.com/florida-web-developers/events/144990452/)
-* *Nov 6th*
- * **Zagreb, Croatia** [JavaScript Zagreb](http://www.meetup.com/JavaScript-Zagreb/events/140520522/)
- * **Portland, OR, USA** [PDX Web Development Hack Night](http://www.meetup.com/PDX-Web-Development/events/146482512/)
-* *Nov 7th*
- * **Bangkok, Thailand** [Bangkok Node.js meetup](http://www.meetup.com/Bangkok-Node-js/)
- * **Oslo, Norway** [Framsia meetup: An evening with Brendan Eich](http://www.meetup.com/framsia/events/147208922/)
- * **Austin, TX, USA** [JavaScript Austin: DISTRIBUTE ALL THE THING](http://www.meetup.com/javascript-austin/events/149210932/)
-* *Nov 8th*
- * **Málaga, Spain** [Node Sol, Hablar de node!](http://www.meetup.com/Node-Sol/events/143592222/)
- * **Chicago, IL, USA** [Chicago Node.js: Node Knockout at Groupon](http://www.meetup.com/Chicago-Nodejs/events/149178302/)
-* *Nov 9th*
- * **London, UK** [NodeBots of London meetup](http://www.meetup.com/NodeBots-of-London/events/146831462)
 * *Nov 9th-11th*
  * **Beijing, China** [JingJS](http://jingjs.org/)
+* *Nov 13th*
+ * **Cincinnati, OH, USA** [Node.cincy: Node.js Rocks](http://www.meetup.com/Node-cincy/events/qcnhgdyrpbrb/)
+ * **London, England, UK** [NodeSchool London @ Shoreditch works](https://tito.io/nodeschool/london-2013)
+ * **London, England, UK** [Code Collective: After work code club](http://www.meetup.com/CodeCollective/events/149449742/)
+* *Nov 14th*
+ * **Brooklyn, NY, USA** [Brooklyn.js](http://brooklynjs.com/)
+* *Nov 15th*
+ * **Málaga, Spain** [Node Sol](http://www.meetup.com/Node-Sol/events/143592242/)
 
 ### November 2013
 
-* *Nov 13th* **Cincinnati, OH, USA** [Node.cincy: Node.js Rocks](http://www.meetup.com/Node-cincy/events/qcnhgdyrpbrb/)
-* *Nov 14th* **Brooklyn, NY, USA** [Brooklyn.js](http://brooklynjs.com/)
 * *Nov 19th* **Kansas City, MO, USA** [Grunt, Brunch, and other node build processes](http://www.meetup.com/nodekc/events/145848952/)
 * *Nov 19th* **Budapest, Hungary** [Budapest Node.js meetup](http://www.meetup.com/nodejsbp/events/145101952/)
 * *Nov 19th* **Chicago, IL, USA** [Chicago Node.js: Node Knockout Recap](http://www.meetup.com/Chicago-Nodejs/events/138383212/)
 * *Nov 20th* **Philadelphia, PA, USA** [Philly Node - Hack and Hops](http://nodephilly.ticketleap.com/hackandhops/)
 * *Nov 20th* **San Francisco, CA, USA** [NodeBots SF - Spherofest](http://lanyrd.com/2013/nodebotssf-november/)
 * *Nov 21st* **Saint Louis, MO, USA** [STLJS: Node.js and Drupal — Working Together](http://www.meetup.com/STL-JS-meetup/events/123511772/)
+* *Nov 21st* **San Francisco, CA, USA** [NodeSchool @ GitHub](https://tito.io/nodeschool/at-github)
 * *Nov 28th* **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
 
 ### December 2013
@@ -67,8 +57,22 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### March 2014
 * *Mar 3th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
+* *Mar 6th* **San Francisco, CA, USA** [FarmJS](http://jsfest.com/)
+* *Mar 6th* **San Francisco, CA, USA** [CouchCamp](http://jsfest.com/)
+* *Mar 6th* **San Francisco, CA, USA** [NodeUp Live!](http://jsfest.com/)
+* *Mar 7th* **San Francisco, CA, USA** [DHTMLConf](http://jsfest.com/)
+* *Mar 7th* **San Francisco, CA, USA** [NodeBaseCamp](http://jsfest.com/)
+* *Mar 7th* **San Francisco, CA, USA** [TC39 Town Hall](http://jsfest.com/)
+* *Mar 8th* **San Francisco, CA, USA** [BackStrap: Backbone and Bootstrap](http://jsfest.com/)
+* *Mar 8th* **San Francisco, CA, USA** [NodeCopter](http://jsfest.com/)
+* *Mar 8th* **San Francisco, CA, USA** [WebRTCCamp](http://jsfest.com/)
+* *Mar 8th* **San Francisco, CA, USA** [JSFest: Silent Disco](http://jsfest.com/)
 * *Mar 9th* **San Francisco, CA, USA** [JSFest: Evolution of Experience](http://jsfest.com/)
+* *Mar 9th* **San Francisco, CA, USA** [ImprovJS](http://jsfest.com/)
 * *Mar 10th* **San Francisco, CA, USA** [JSFest: Scaling Up and Down](http://jsfest.com/)
+* *Mar 11th* **San Francisco, CA, USA** [NodeSchool: Learn You The Node.js For Much Win!](http://jsfest.com/)
+* *Mar 11th* **San Francisco, CA, USA** [NodeSchool: Stream Adventure](http://jsfest.com/)
+* *Mar 12th* **San Francisco, CA, USA** [NodeSchool: Level Me Up Scotty!](http://jsfest.com/)
 * *Mar 14th-15th* **Montevideo, Uruguay** [JSConf](http://jsconf.uy)
 
 ### April 2014
