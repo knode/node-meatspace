@@ -30,7 +30,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * *Nov 20th* **Philadelphia, PA, USA** [Philly Node - Hack and Hops](http://nodephilly.ticketleap.com/hackandhops/)
 * *Nov 20th* **San Francisco, CA, USA** [NodeBots SF - Spherofest](http://lanyrd.com/2013/nodebotssf-november/)
 * *Nov 21st* **Saint Louis, MO, USA** [STLJS: Node.js and Drupal — Working Together](http://www.meetup.com/STL-JS-meetup/events/123511772/)
-* *Nov 21st* **San Francisco, CA, USA** [NodeSchool @ GitHub](https://tito.io/nodeschool/at-github)
+* *Nov 21st* **San Francisco, CA, USA** [NodeSchool @ Heroku](https://tito.io/nodeschool/at-heroku)
 * *Nov 27th* **Melbourne, Australia** [Melbourne Node.js](http://www.meetup.com/MelbNodeJS/events/149777452/)
 * *Nov 28th* **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
 
