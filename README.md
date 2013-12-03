@@ -11,14 +11,20 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### This Week
 
-* *Dec 2th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
-* *Dec 3rd* **Brisbane, Australia** [BrisJs](http://brisjs.com/)
-* *Dec 3rd-4th* **San Francisco, CA, USA** [Node Summit](http://nodesummit.com/)
-* *Dec 4th* **Zagreb, Croatia** [JavaScript Zagreb](http://www.meetup.com/JavaScript-Zagreb/events/140521202/)
-* *Dec 5th* **Bangkok, Thailand** [Bangkok Node.js meetup](http://www.meetup.com/Bangkok-Node-js/)
-* *Dec 5th* **Montevideo, Uruguay** [Montevideo JS Meetup](http://www.meetup.com/mvd-js/events/143854482/)
-* *Dec 5th* **San Francisco, CA, USA** [Cultivate: An evening of full-stack JavaScript](http://www.meetup.com/cultivate/events/149793832/)
-* *Dec 6th-7th* **Amelia Island, FL, USA** [RobotsConf](http://robotsconf.com/)
+* *Dec 2th*
+ * **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
+* *Dec 3rd*
+ * **Brisbane, Australia** [BrisJs](http://brisjs.com/)
+* *Dec 3rd-4th*
+ * **San Francisco, CA, USA** [Node Summit](http://nodesummit.com/)
+* *Dec 4th*
+ * **Zagreb, Croatia** [JavaScript Zagreb](http://www.meetup.com/JavaScript-Zagreb/events/140521202/)
+* *Dec 5th*
+ * **Bangkok, Thailand** [Bangkok Node.js meetup](http://www.meetup.com/Bangkok-Node-js/)
+ * **Montevideo, Uruguay** [Montevideo JS Meetup](http://www.meetup.com/mvd-js/events/143854482/)
+ * **San Francisco, CA, USA** [Cultivate: An evening of full-stack JavaScript](http://www.meetup.com/cultivate/events/149793832/)
+* *Dec 6th-7th*
+ * **Amelia Island, FL, USA** [RobotsConf](http://robotsconf.com/)
 
 ### December 2013
 
