@@ -11,31 +11,6 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### This Week
 
-* *Nov 9th-11th*
- * **Beijing, China** [JingJS](http://jingjs.org/)
-* *Nov 13th*
- * **Cincinnati, OH, USA** [Node.cincy: Node.js Rocks](http://www.meetup.com/Node-cincy/events/qcnhgdyrpbrb/)
- * **London, England, UK** [NodeSchool London @ Shoreditch works](https://tito.io/nodeschool/london-2013)
- * **London, England, UK** [Code Collective: After work code club](http://www.meetup.com/CodeCollective/events/149449742/)
-* *Nov 14th*
- * **Brooklyn, NY, USA** [Brooklyn.js](http://brooklynjs.com/)
-* *Nov 15th*
- * **Málaga, Spain** [Node Sol](http://www.meetup.com/Node-Sol/events/143592242/)
-
-### November 2013
-
-* *Nov 19th* **Kansas City, MO, USA** [Grunt, Brunch, and other node build processes](http://www.meetup.com/nodekc/events/145848952/)
-* *Nov 19th* **Budapest, Hungary** [Budapest Node.js meetup](http://www.meetup.com/nodejsbp/events/145101952/)
-* *Nov 19th* **Chicago, IL, USA** [Chicago Node.js: Node Knockout Recap](http://www.meetup.com/Chicago-Nodejs/events/138383212/)
-* *Nov 20th* **Philadelphia, PA, USA** [Philly Node - Hack and Hops](http://nodephilly.ticketleap.com/hackandhops/)
-* *Nov 20th* **San Francisco, CA, USA** [NodeBots SF - Spherofest](http://lanyrd.com/2013/nodebotssf-november/)
-* *Nov 21st* **Saint Louis, MO, USA** [STLJS: Node.js and Drupal — Working Together](http://www.meetup.com/STL-JS-meetup/events/123511772/)
-* *Nov 21st* **San Francisco, CA, USA** [NodeSchool @ Heroku](https://tito.io/nodeschool/at-heroku)
-* *Nov 27th* **Melbourne, Australia** [Melbourne Node.js](http://www.meetup.com/MelbNodeJS/events/149777452/)
-* *Nov 28th* **Dublin, Ireland** [Node.js Dublin](http://www.nodejsdublin.com/)
-
-### December 2013
-
 * *Dec 2th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *Dec 3rd* **Brisbane, Australia** [BrisJs](http://brisjs.com/)
 * *Dec 3rd-4th* **San Francisco, CA, USA** [Node Summit](http://nodesummit.com/)
@@ -44,6 +19,9 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 * *Dec 5th* **Montevideo, Uruguay** [Montevideo JS Meetup](http://www.meetup.com/mvd-js/events/143854482/)
 * *Dec 5th* **San Francisco, CA, USA** [Cultivate: An evening of full-stack JavaScript](http://www.meetup.com/cultivate/events/149793832/)
 * *Dec 6th-7th* **Amelia Island, FL, USA** [RobotsConf](http://robotsconf.com/)
+
+### December 2013
+
 * *Dec 11th* **Cincinnati, OH, USA** [Node.cincy: Node.js Rocks](http://www.meetup.com/Node-cincy/events/qcnhgdyrqbpb/)
 * *Dec 12th* **Munich, Germany** [Munich Node.js User Group](http://www.mnug.de/)
 * *Nov 20th* **San Francisco, CA, USA** [NodeBots SF - Program your Xmas lights!](http://lanyrd.com/2013/nodebotssf-december/)
