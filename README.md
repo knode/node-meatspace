@@ -35,6 +35,7 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 ### January 2014
 * *Jan 6th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *Jan 8th* **Cincinnati, OH, USA** [Node.cincy: Node.js Rocks](http://www.meetup.com/Node-cincy/events/qcnhgdyscblb/)
+* *Jan 21th* **Budapest, Hungary** [Nodebp Meetup](http://www.meetup.com/nodebp/events/156892152)
 * *Jan 25th* **Brescia, Italy** [nodejsconf.it](http://nodejsconf.it)
 
 ### February 2014
