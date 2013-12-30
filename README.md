@@ -11,6 +11,9 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### This Week
 
+* *Jan 3rd*
+ * **Malaga, Spain** [Node Sol](http://www.meetup.com/Node-Sol/events/157405792/)
+
 ### January 2014
 * *Jan 6th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *Jan 8th* **Cincinnati, OH, USA** [Node.cincy: Node.js Rocks](http://www.meetup.com/Node-cincy/events/qcnhgdyscblb/)
