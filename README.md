@@ -17,8 +17,10 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 ### January 2014
 * *Jan 6th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *Jan 8th* **Cincinnati, OH, USA** [Node.cincy: Node.js Rocks](http://www.meetup.com/Node-cincy/events/qcnhgdyscblb/)
+* *Jan 8th* **Miraflores, Peru** [LimaJS: Reunión Mensual](http://lanyrd.com/2014/limajs/)
 * *Jan 15th* **Orlando, FL, USA** [Node Orlando](http://www.meetup.com/orlando-node-js/)
 * *Jan 21th* **Budapest, Hungary** [Nodebp Meetup](http://www.meetup.com/nodebp/events/156892152)
+* *Jan 22th* **London, United Kingdom** [London Node User Group](http://lanyrd.com/2014/lnug-january/)
 * *Jan 25th* **Brescia, Italy** [nodejsconf.it](http://nodejsconf.it)
 
 ### February 2014
