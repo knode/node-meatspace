@@ -1,0 +1,11 @@
+#!/bin/sh
+
+#run script to build html the page
+
+node build.js
+RETVAL=$?
+
+if [ $RETVAL -ne 0 ]
+then
+    exit 1
+fi
