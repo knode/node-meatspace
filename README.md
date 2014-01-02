@@ -44,6 +44,7 @@ send a pull request.*
 * *Mar 9th* **San Francisco, CA, USA** [JSFest: Evolution of Experience](http://jsfest.com/)
 * *Mar 9th* **San Francisco, CA, USA** [ImprovJS](http://jsfest.com/)
 * *Mar 10th* **San Francisco, CA, USA** [JSFest: Scaling Up and Down](http://jsfest.com/)
+* *Mar 11th-13th* **San Francisco, CA, USA** [Fluent: Web Platform](http://fluentconf.com/)
 * *Mar 11th* **San Francisco, CA, USA** [NodeSchool: Learn You The Node.js For Much Win!](http://jsfest.com/)
 * *Mar 11th* **San Francisco, CA, USA** [NodeSchool: Stream Adventure](http://jsfest.com/)
 * *Mar 12th* **San Francisco, CA, USA** [NodeSchool: Level Me Up Scotty!](http://jsfest.com/)
