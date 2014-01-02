@@ -53,10 +53,13 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### May 2014
 * *May 5th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
+* *May 5th-6th* **New York, NY, USA** [EmpireJS](http://empirejs.org/)
 * *May 22nd-23rd* **Oslo, Norway** [Web Rebels](http://webrebels.org/)
+* *May 28th-30th* **Amelia Island, FL, USA** [JSConf](http://2014.jsconf.us/)
 
 ### June 2014
 * *Jun 2th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
+* *Jun 24th-27th* **Portland, OR, USA** [OSBridge](http://opensourcebridge.org/) 
 
 ### July 2014
 * *Jul 4th Weekend* **Marin County, CA, USA** [NodeConf 2014](http://www.nodeconf.com)
