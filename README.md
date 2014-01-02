@@ -3,11 +3,13 @@ Node.js Meatspace
 
 This project is to encourage and promote real world in-person events by/for the node.js community.
 
-The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as a message board. If you have some ideas about in-person events or want to put something together in your area please create a new issue.
+If you're interested in sharing events in your area and how they're being run, please consider submitting a pull request to [knode.io](https://github.com/knode/meetups). These projects are partnering to provide a comprehensive view of Node.js events happening at the local user group level and larger conference scale.
 
 ## Calendar
 
-*If you know about any events that aren't listed please add them to the [README](https://github.com/mikeal/node-meatspace/blob/gh-pages/README.md) and send a pull request.*
+*If you know about any events that aren't listed please add them to the
+[README](https://github.com/mikeal/node-meatspace/blob/gh-pages/README.md) and
+send a pull request.*
 
 ### This Week
 
@@ -53,10 +55,13 @@ The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as 
 
 ### May 2014
 * *May 5th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
+* *May 5th-6th* **New York, NY, USA** [EmpireJS](http://empirejs.org/)
 * *May 22nd-23rd* **Oslo, Norway** [Web Rebels](http://webrebels.org/)
+* *May 28th-30th* **Amelia Island, FL, USA** [JSConf](http://2014.jsconf.us/)
 
 ### June 2014
 * *Jun 2th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
+* *Jun 24th-27th* **Portland, OR, USA** [OSBridge](http://opensourcebridge.org/) 
 
 ### July 2014
 * *Jul 4th Weekend* **Marin County, CA, USA** [NodeConf 2014](http://www.nodeconf.com)
