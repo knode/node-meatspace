@@ -3,10 +3,6 @@ Node.js Meatspace
 
 This project is to encourage and promote real world in-person events by/for the node.js community.
 
-The [issue tracker](https://github.com/mikeal/node-meatspace/issues) is used as
-a message board. If you have some ideas about in-person events or want to put
-something together in your area please create a new issues.
-
 If you're interested in sharing events in your area and how they're being run, please consider submitting a pull request to [knode.io](https://github.com/knode/meetups). These projects are partnering to provide a comprehensive view of Node.js events happening at the local user group level and larger conference scale.
 
 ## Calendar
