@@ -28,6 +28,7 @@ send a pull request.*
 ### February 2014
 * *Feb 2nd* **Brussels, Belgium** [FOSDEM: JavaScript devroom](http://fosdem14-js-devroom.github.io/)
 * *Feb 3th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
+* *Feb 13th-14th* **Budapest, Hungary** [MLOC.JS](http://mloc-js.com/2014/)
 
 ### March 2014
 * *Mar 3th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
