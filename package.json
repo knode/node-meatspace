@@ -7,7 +7,9 @@
     "handlebars": "~1.0.12",
     "marked": "~0.2.9"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "grunt": "0.4.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
