@@ -9,3 +9,7 @@ if [ $RETVAL -ne 0 ]
 then
     exit 1
 fi
+
+# If build.js succeeds, then index.html has been modified
+# Add the modified index.html to the changeset before we commit
+git add index.html
