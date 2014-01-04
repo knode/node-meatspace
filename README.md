@@ -25,6 +25,8 @@ send a pull request.*
 * *Jan 21th* **Budapest, Hungary** [Nodebp Meetup](http://www.meetup.com/nodebp/events/156892152)
 * *Jan 22th* **London, United Kingdom** [London Node User Group](http://lanyrd.com/2014/lnug-january/)
 * *Jan 25th* **Brescia, Italy** [nodejsconf.it](http://nodejsconf.it)
+* *Jan 29th* **Paris, France** [ParisJS](http://www.meetup.com/FranceJS/events/158150272/)
+
 
 ### February 2014
 * *Feb 2nd* **Brussels, Belgium** [FOSDEM: JavaScript devroom](http://fosdem14-js-devroom.github.io/)
