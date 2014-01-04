@@ -22,6 +22,7 @@ send a pull request.*
 * *Jan 8th* **Miraflores, Peru** [LimaJS: Reunión Mensual](http://lanyrd.com/2014/limajs/)
 * *Jan 15th* **Orlando, FL, USA** [Node Orlando](http://www.meetup.com/orlando-node-js/)
 * *Jan 17th* **Budapest, Hungary** [Budapest.js](http://www.meetup.com/budapest-js/events/158370752/)
+* *Jan 17th* **Nijmegen, Netherlands** [NijmegenJS](http://www.meetup.com/NijmegenJS/events/158369692/)
 * *Jan 21th* **Budapest, Hungary** [Nodebp Meetup](http://www.meetup.com/nodebp/events/156892152)
 * *Jan 22th* **London, United Kingdom** [London Node User Group](http://lanyrd.com/2014/lnug-january/)
 * *Jan 25th* **Brescia, Italy** [nodejsconf.it](http://nodejsconf.it)
@@ -31,6 +32,8 @@ send a pull request.*
 ### February 2014
 * *Feb 2nd* **Brussels, Belgium** [FOSDEM: JavaScript devroom](http://fosdem14-js-devroom.github.io/)
 * *Feb 3th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
+* *Feb 4th* **Mountain View, CA, USA** [Node Hackers at Hacker Dojo](http://www.meetup.com/Node-Hackers-at-Hacker-Dojo/events/156235612/)
+* *Feb 6th* **Singapore, Singapore** [Nodebots Singapore](http://www.meetup.com/NodeBotsSingapore/events/157876832/)
 * *Feb 13th-14th* **Budapest, Hungary** [MLOC.JS](http://mloc-js.com/2014/)
 
 ### March 2014
