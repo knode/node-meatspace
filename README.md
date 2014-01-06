@@ -59,6 +59,7 @@ send a pull request.*
 
 ### April 2014
 * *Apr 7th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
+* *Apr 23th-25th* **Budapest, Hungary** [CraftConf](http://craft-conf.com/2014/)
 * *Apr 26th-27th* **Hamburg, Germany** [JS Unconf](http://2014.jsunconf.eu)
 
 ### May 2014
