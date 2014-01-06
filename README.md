@@ -12,14 +12,11 @@ If you're interested in sharing events in your area and how they're being run, p
 send a pull request.*
 
 ### This Week
-
-* *Jan 3rd*
- * **Malaga, Spain** [Node Sol](http://www.meetup.com/Node-Sol/events/157405792/)
-
-### January 2014
 * *Jan 6th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *Jan 8th* **Cincinnati, OH, USA** [Node.cincy: Node.js Rocks](http://www.meetup.com/Node-cincy/events/qcnhgdyscblb/)
 * *Jan 8th* **Miraflores, Peru** [LimaJS: Reunión Mensual](http://lanyrd.com/2014/limajs/)
+
+### January 2014
 * *Jan 15th* **Orlando, FL, USA** [Node Orlando](http://www.meetup.com/orlando-node-js/)
 * *Jan 17th* **Budapest, Hungary** [Budapest.js](http://www.meetup.com/budapest-js/events/158370752/)
 * *Jan 17th* **Nijmegen, Netherlands** [NijmegenJS](http://www.meetup.com/NijmegenJS/events/158369692/)
