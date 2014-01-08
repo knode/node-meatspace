@@ -32,6 +32,8 @@ send a pull request.*
 * *Feb 4th* **Mountain View, CA, USA** [Node Hackers at Hacker Dojo](http://www.meetup.com/Node-Hackers-at-Hacker-Dojo/events/156235612/)
 * *Feb 6th* **Singapore, Singapore** [Nodebots Singapore](http://www.meetup.com/NodeBotsSingapore/events/157876832/)
 * *Feb 13th-14th* **Budapest, Hungary** [MLOC.JS](http://mloc-js.com/2014/)
+* *Feb 17th-19th* **San Francisco, CA, USA** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-san-francisco-feb-2014)
+* *Feb 26th-28th* **New York City, NY, USA** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-new-york-city-feb-2014)
 
 ### March 2014
 * *Mar 3th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
@@ -53,17 +55,24 @@ send a pull request.*
 * *Mar 11th* **San Francisco, CA, USA** [NodeSchool: Stream Adventure](http://jsfest.com/)
 * *Mar 12th* **San Francisco, CA, USA** [NodeSchool: Level Me Up Scotty!](http://jsfest.com/)
 * *Mar 14th-15th* **Montevideo, Uruguay** [JSConf](http://jsconf.uy)
+* *Mar 26th-28th* **London, UK** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-london-march-2014)
+* *Mar 31st- Feb 2nd* **Berlin, Germany** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-berlin-march-2014)
 
 ### April 2014
 * *Apr 7th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *Apr 23th-25th* **Budapest, Hungary** [CraftConf](http://craft-conf.com/2014/)
+* *Apr 23rd-25th* **San Francisco, CA, USA** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-san-francisco-april-2014)
 * *Apr 26th-27th* **Hamburg, Germany** [JS Unconf](http://2014.jsunconf.eu)
+* *Apr 30th-May 2nd* **New York City, NY, USA** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-new-york-city-april-2014)
 
 ### May 2014
 * *May 5th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *May 5th-6th* **New York, NY, USA** [EmpireJS](http://empirejs.org/)
+* *May 7th-9th* **Kuala Lumpur, Malaysia** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-kuala-lumpur-may-2014)
+* *May 14th-16th* **Manila, Phillipines** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-manila-may-2014)
 * *May 22nd-23rd* **Oslo, Norway** [Web Rebels](http://webrebels.org/)
 * *May 28th-30th* **Amelia Island, FL, USA** [JSConf](http://2014.jsconf.us/)
+
 
 ### June 2014
 * *Jun 2th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
