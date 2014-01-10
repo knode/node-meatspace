@@ -57,6 +57,7 @@ send a pull request.*
 * *Mar 11th* **San Francisco, CA, USA** [NodeSchool: Stream Adventure](http://jsfest.com/)
 * *Mar 12th* **San Francisco, CA, USA** [NodeSchool: Level Me Up Scotty!](http://jsfest.com/)
 * *Mar 14th-15th* **Montevideo, Uruguay** [JSConf](http://jsconf.uy)
+* *Mar 20th* **Saint Louis, MO, USA** [STLJS: Lazy.js for Performance and Efficiency](http://www.meetup.com/STL-JS-meetup/events/151446282/)
 * *Mar 26th-28th* **London, UK** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-london-march-2014)
 * *Mar 31st- Feb 2nd* **Berlin, Germany** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-berlin-march-2014)
 
