@@ -81,6 +81,7 @@ send a pull request.*
 
 ### June 2014
 * *Jun 2th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
+* *Jun 19th* **Saint Louis, MO, USA** [STLJS: CanJS &mdash; Build Better Apps, Faster](http://www.meetup.com/STL-JS-meetup/events/159770032/)
 * *Jun 24th-27th* **Portland, OR, USA** [OSBridge](http://opensourcebridge.org/) 
 
 ### July 2014
