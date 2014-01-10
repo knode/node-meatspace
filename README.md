@@ -18,6 +18,7 @@ send a pull request.*
 
 ### January 2014
 * *Jan 15th* **Orlando, FL, USA** [Node Orlando](http://www.meetup.com/orlando-node-js/)
+* *Jan 16th* **Saint Louis, MO, USA** [STLJS: Test-Driven Development in JavaScript with Jasmine](http://www.meetup.com/STL-JS-meetup/events/149993482/)
 * *Jan 17th* **Budapest, Hungary** [Budapest.js](http://www.meetup.com/budapest-js/events/158370752/)
 * *Jan 17th* **Nijmegen, Netherlands** [NijmegenJS](http://www.meetup.com/NijmegenJS/events/158369692/)
 * *Jan 21th* **Budapest, Hungary** [Nodebp Meetup](http://www.meetup.com/nodebp/events/156892152)
