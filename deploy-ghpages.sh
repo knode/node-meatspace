@@ -1,9 +1,14 @@
 #!/bin/bash
 node build.js
-( git init
-  git config user.name "Travis-CI"
-  git config user.email "dev@nodemeatspace.com"
+(
+  mkdir pages
+  cd pages
+  git clone 'https://${GH_TOKEN}@${GH_REF}'
+  git checkout gh-pages
+  cp ../index.html /index.html
+  git config user.name 'Travis-CI'
+  git config user.email 'dev@nodemeatspace.com'
   git add index.html
-  git commit -m "Deployed to Github Pages"
-  git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:gh-pages >/dev/null
+  git commit -m 'Deployed to Github Pages'
+  git push --force --quiet origin gh-pages
 )
