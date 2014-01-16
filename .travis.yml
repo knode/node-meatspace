@@ -1,4 +1,8 @@
 language: node_js
 node_js:
 - '0.10'
-node build.js
+script: npm run-script deploy
+env:
+  global:
+  - GH_REF: github.com/mikeal/node-meatspace.git
+  - secure: f7xW4dk0wUlzi9+KEWEu33o20PrEvHDgtQObB/9N5hr6jPfm8XoFC+fp8sVs6D1O0JywueEd/qlfG3j3mQid0CmXtsf7Ner3ZoOadBIaTjzev/Mm8hTixQQvOdM0xGoM/hjqKYRS8k94JjEQBWhYN7WNl//Ixxmit+c5yeWVXOQ=
