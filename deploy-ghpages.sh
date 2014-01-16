@@ -3,7 +3,7 @@ node build.js
 (
   mkdir pages
   cd pages
-  git clone 'https://${GH_TOKEN}@${GH_REF}'
+  git clone --branch=gh-pages https://${GH_TOKEN}@${GH_REF}
   git checkout gh-pages
   cp ../index.html /index.html
   git config user.name 'Travis-CI'
