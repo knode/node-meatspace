@@ -7,4 +7,4 @@ var marked = require('marked')
   , readme = fs.readFileSync(path.join(__dirname, 'README.md')).toString()
   ;
 
-fs.writeFileSync('index.html', template({readme: marked(readme)}))
+fs.writeFileSync('out/index.html', template({readme: marked(readme)}))
