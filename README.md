@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/mikeal/node-meatspace.png)](https://travis-ci.org/mikeal/node-meatspace)
+[![Build Status](https://travis-ci.org/knode/node-meatspace.png)](https://travis-ci.org/knode/node-meatspace)
 
 Node.js Meatspace
 ==============
