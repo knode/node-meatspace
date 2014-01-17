@@ -4,5 +4,5 @@ node_js:
 script: npm run-script deploy
 env:
   global:
-  - GH_REF: github.com/mikeal/node-meatspace.git
-  - secure: RsZYDm04omEFiyFgpa5wH2Dl+x+lKelG8xwl0AwrrztHoDTGyEoDhUxvJMQR5HluoYx2WIBQ4wUIcTV1Z7deg9e6V4pEZMQ4H+KGWgc9/YfkZxm1wTtcXLn6BJPcgdH2GJ72IG4EQHKZttV8AmD1rOBkPAGCnkcUR4hRHhBKiaA=
+  - GH_REF: github.com/knode/node-meatspace.git
+  - secure: ieI0GVj4kr6xZJHoTSbAgEqO8IGKE5NJlpHPnvhshCCdtYYYHZ5Dvz4pD0oeANiDcD17Zf3nJMd5JYLa7E2ZrKzzn24C0hnwkWPU9yD+1ah6fwU4v5vJKGv2ppSxrAQFkSSL7RWCN8JwUI4rMncOV0Dw8lVnmeQxfIX3YueIKic=
