@@ -24,6 +24,7 @@ send a pull request.*
 * *Jan 20th* **London, United Kingdom** [London Node User Group](http://lanyrd.com/2014/lnug-january/)
 * *Jan 25th* **Brescia, Italy** [nodejsconf.it](http://nodejsconf.it)
 * *Jan 25th* **London, United Kingdom** [NodeBots of London](http://www.meetup.com/NodeBots-of-London/events/160405872/)
+* *Jan 27th* **Richland, WA, USA** [Hapi 2.0 Event at &yet](https://tito.io/&yet/hapijs-20)
 * *Jan 29th* **Paris, France** [ParisJS](http://www.meetup.com/FranceJS/events/158150272/)
 
 
