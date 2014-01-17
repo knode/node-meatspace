@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/mikeal/node-meatspace.png)](https://travis-ci.org/mikeal/node-meatspace)
+[![Build Status](https://travis-ci.org/knode/node-meatspace.png)](https://travis-ci.org/knode/node-meatspace)
 
 Node.js Meatspace
 ==============
@@ -22,9 +22,12 @@ send a pull request.*
 ### January 2014
 * *Jan 21th* **Budapest, Hungary** [Nodebp Meetup](http://www.meetup.com/nodebp/events/156892152)
 * *Jan 20th* **London, United Kingdom** [London Node User Group](http://lanyrd.com/2014/lnug-january/)
+* *Jan 23rd* **Melbourne, Australia** [Melbourne Node.js meetup](http://www.meetup.com/MelbNodeJS/events/154220132/)
 * *Jan 25th* **Brescia, Italy** [nodejsconf.it](http://nodejsconf.it)
 * *Jan 25th* **London, United Kingdom** [NodeBots of London](http://www.meetup.com/NodeBots-of-London/events/160405872/)
+* *Jan 27th* **Richland, WA, USA** [Hapi 2.0 Event at &yet](https://tito.io/&yet/hapijs-20)
 * *Jan 29th* **Paris, France** [ParisJS](http://www.meetup.com/FranceJS/events/158150272/)
+* *Jan 30th* **Los Angeles, CA, USA** [JS.LA](http://js.la)
 
 
 ### February 2014
