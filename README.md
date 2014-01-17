@@ -26,6 +26,7 @@ send a pull request.*
 * *Jan 25th* **Brescia, Italy** [nodejsconf.it](http://nodejsconf.it)
 * *Jan 25th* **London, United Kingdom** [NodeBots of London](http://www.meetup.com/NodeBots-of-London/events/160405872/)
 * *Jan 29th* **Paris, France** [ParisJS](http://www.meetup.com/FranceJS/events/158150272/)
+* *Jan 30th* **Los Angeles, CA, USA** [JS.LA](http://js.la)
 
 
 ### February 2014
