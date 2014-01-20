@@ -27,6 +27,7 @@ send a pull request.*
 * *Jan 27th* **Richland, WA, USA** [Hapi 2.0 Event at &yet](https://tito.io/&yet/hapijs-20)
 * *Jan 29th* **Paris, France** [ParisJS](http://www.meetup.com/FranceJS/events/158150272/)
 * *Jan 30th* **Los Angeles, CA, USA** [JS.LA](http://js.la)
+* *Jan 30th* **Portland, OR** [Nodebots PDXNode](http://www.meetup.com/nodepdx/events/161552842/)
 
 ### February 2014
 * *Feb 2nd* **Brussels, Belgium** [FOSDEM: JavaScript devroom](http://fosdem14-js-devroom.github.io/)
