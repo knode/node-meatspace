@@ -35,6 +35,7 @@ send a pull request.*
 * *Feb 4th* **Mountain View, CA, USA** [Node Hackers at Hacker Dojo](http://www.meetup.com/Node-Hackers-at-Hacker-Dojo/events/156235612/)
 * *Feb 6th* **Singapore, Singapore** [Nodebots Singapore](http://www.meetup.com/NodeBotsSingapore/events/157876832/)
 * *Feb 6th* **Menlo Park, CA, USA** [BayNode](http://www.meetup.com/BayNode/events/159917932/)
+* *Feb 12th* **Budapest, Hungary** [Nodebp Meetup](http://www.meetup.com/nodebp/events/162288662/)
 * *Feb 13th-14th* **Budapest, Hungary** [MLOC.JS](http://mloc-js.com/2014/)
 * *Feb 17th-19th* **San Francisco, CA, USA** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-san-francisco-feb-2014)
 * *Feb 20th* **Saint Louis, MO, USA** [STLJS: Distributed, Functional Reactive JavaScript for the Win](http://www.meetup.com/STL-JS-meetup/events/151262552/)
