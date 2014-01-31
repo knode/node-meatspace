@@ -37,7 +37,7 @@ send a pull request.*
 * *Mar 3th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *Mar 5th* **Menlo Park, CA, USA** [BayNode](http://www.meetup.com/BayNode/events/159918202/)
 * *Mar 6th* **San Francisco, CA, USA** [FarmJS](http://jsfest.com/)
-* *Mar 6th* **San Francisco, CA, USA** [CouchCamp](http://jsfest.com/)
+* *Mar 6th* **San Francisco, CA, USA** [KnodeCamp](http://jsfest.com/)
 * *Mar 6th* **San Francisco, CA, USA** [NodeUp Live!](http://jsfest.com/)
 * *Mar 7th* **San Francisco, CA, USA** [DHTMLConf](http://jsfest.com/)
 * *Mar 7th* **San Francisco, CA, USA** [NodeBaseCamp](http://jsfest.com/)
