@@ -74,6 +74,7 @@ send a pull request.*
 * *May 14th-16th* **Manila, Phillipines** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-manila-may-2014)
 * *May 15th* **Saint Louis, MO, USA** [STLJS: Node.js and Drupal &mdash; Working Together](http://www.meetup.com/STL-JS-meetup/events/151436472/)
 * *May 22nd-23rd* **Oslo, Norway** [Web Rebels](http://webrebels.org/)
+* *May 23rd-26th* **Melbourne, Australia** [CampJS III](http://campjs.com/)
 * *May 28th-30th* **Amelia Island, FL, USA** [JSConf](http://2014.jsconf.us/)
 
 
