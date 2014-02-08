@@ -15,17 +15,12 @@ send a pull request.*
 
 ### This Week
 
-* *Feb 2nd* **Brussels, Belgium** [FOSDEM: JavaScript devroom](http://fosdem14-js-devroom.github.io/)
-* *Feb 3th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
-* *Feb 4th* **Mountain View, CA, USA** [Node Hackers at Hacker Dojo](http://www.meetup.com/Node-Hackers-at-Hacker-Dojo/events/156235612/)
-* *Feb 6th* **Singapore, Singapore** [Nodebots Singapore](http://www.meetup.com/NodeBotsSingapore/events/157876832/)
-* *Feb 6th* **Menlo Park, CA, USA** [BayNode](http://www.meetup.com/BayNode/events/159917932/)
-* *Feb 6th* **Portland, OR, USA** [PDXNode](http://www.meetup.com/nodepdx/events/162166572/)
+* *Feb 12th* **Budapest, Hungary** [Nodebp Meetup](http://www.meetup.com/nodebp/events/162288662/)
+* *Feb 13th* **Portland, OR, USA** [PDXNode](http://www.meetup.com/nodepdx/events/162166572/)
+* *Feb 13th-14th* **Budapest, Hungary** [MLOC.JS](http://mloc-js.com/2014/)
 
 ### February 2014
 
-* *Feb 12th* **Budapest, Hungary** [Nodebp Meetup](http://www.meetup.com/nodebp/events/162288662/)
-* *Feb 13th-14th* **Budapest, Hungary** [MLOC.JS](http://mloc-js.com/2014/)
 * *Feb 17th-19th* **San Francisco, CA, USA** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-san-francisco-feb-2014)
 * *Feb 20th* **Saint Louis, MO, USA** [STLJS: Distributed, Functional Reactive JavaScript for the Win](http://www.meetup.com/STL-JS-meetup/events/151262552/)
 * *Feb 20th* **Portland, OR** [PDXNode presents NodeSchool.io](https://ti.to/pdxnode/nodeschool)
