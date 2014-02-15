@@ -48,6 +48,7 @@ send a pull request.*
 * *Mar 11th* **San Francisco, CA, USA** [NodeSchool: Stream Adventure](http://jsfest.com/)
 * *Mar 11th* **Norwich, UK** [NodeSchool: Learn You The Node.js For Much Win!](http://www.meetup.com/Norfolk-Developers-NorDev/events/158375062/)
 * *Mar 12th* **San Francisco, CA, USA** [NodeSchool: Level Me Up Scotty!](http://jsfest.com/)
+* *Mar 12th* **London, UK** [NodeSchool: Learn You The Node.js For Much Win!](https://ti.to/nodeschool/london-march-2014)
 * *Mar 14th-15th* **Montevideo, Uruguay** [JSConf](http://jsconf.uy)
 * *Mar 19th-21th* **Budapest, Hungary** [Node.JS Fundamentals training](www.olindata.com/training/hungary/budapest/nodejs-fundamentals-training-budapest-march-2014)
 * *Mar 20th* **Saint Louis, MO, USA** [STLJS: Lazy.js for Performance and Efficiency](http://www.meetup.com/STL-JS-meetup/events/151446282/)
