@@ -15,16 +15,13 @@ send a pull request.*
 
 ### This Week
 
-* *Feb 12th* **Budapest, Hungary** [Nodebp Meetup](http://www.meetup.com/nodebp/events/162288662/)
-* *Feb 13th* **Portland, OR, USA** [PDXNode](http://www.meetup.com/nodepdx/events/162166572/)
-* *Feb 13th-14th* **Budapest, Hungary** [MLOC.JS](http://mloc-js.com/2014/)
-
-### February 2014
-
 * *Feb 17th-19th* **San Francisco, CA, USA** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-san-francisco-feb-2014)
 * *Feb 19th* **San Francisco, CA, USA** [SushiJS](https://github.com/sushijs/san-francisco-ca-usa/issues/3)
 * *Feb 20th* **Saint Louis, MO, USA** [STLJS: Distributed, Functional Reactive JavaScript for the Win](http://www.meetup.com/STL-JS-meetup/events/151262552/)
 * *Feb 20th* **Portland, OR** [PDXNode presents NodeSchool.io](https://ti.to/pdxnode/nodeschool)
+
+### February 2014
+
 * *Feb 26th-28th* **New York City, NY, USA** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-new-york-city-feb-2014)
 
 ### March 2014
@@ -51,6 +48,7 @@ send a pull request.*
 * *Mar 14th-15th* **Montevideo, Uruguay** [JSConf](http://jsconf.uy)
 * *Mar 19th-21th* **Budapest, Hungary** [Node.JS Fundamentals training](www.olindata.com/training/hungary/budapest/nodejs-fundamentals-training-budapest-march-2014)
 * *Mar 20th* **Saint Louis, MO, USA** [STLJS: Lazy.js for Performance and Efficiency](http://www.meetup.com/STL-JS-meetup/events/151446282/)
+* *Mar 20th* **Portland, OR, USA** [PDXNode and Joyent present Node.js on the Road](http://www.meetup.com/nodepdx/)
 * *Mar 26th-28th* **London, UK** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-london-march-2014)
 * *Mar 31st- Feb 2nd* **Berlin, Germany** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-berlin-march-2014)
 
