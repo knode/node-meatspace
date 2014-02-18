@@ -81,3 +81,4 @@ send a pull request.*
 * *Jul 4th Weekend* **Marin County, CA, USA** [NodeConf 2014](http://www.nodeconf.com)
 * *Jul 7th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *Jul 17th* **Saint Louis, MO, USA** [STLJS: Special Presentation](http://www.meetup.com/STL-JS-meetup/events/154371372/)
+* *Jul 31st-Aug 1st* **Portland, OR, USA** [CascadiaJS 2014](http://www.cascadiajs.com/)
