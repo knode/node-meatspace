@@ -19,9 +19,11 @@ send a pull request.*
 * *Feb 19th* **San Francisco, CA, USA** [SushiJS](https://github.com/sushijs/san-francisco-ca-usa/issues/3)
 * *Feb 20th* **Saint Louis, MO, USA** [STLJS: Distributed, Functional Reactive JavaScript for the Win](http://www.meetup.com/STL-JS-meetup/events/151262552/)
 * *Feb 20th* **Portland, OR** [PDXNode presents NodeSchool.io](https://ti.to/pdxnode/nodeschool)
+* *Feb 22th* **Medellín, Colombia** [Primer NodeSchool Medellín](http://www.meetup.com/MedellinJS/events/167090612/)
 
 ### February 2014
 
+* *Feb 26th* **Medellín, Colombia** [MedellínJS: Yeoman - Mapas en la web con D3.js y TopoJson](http://www.meetup.com/MedellinJS/events/167134402/)
 * *Feb 26th-28th* **New York City, NY, USA** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-new-york-city-feb-2014)
 * *Feb 27th* **Los Angeles, CA, USA** [JSLA](http://js.la)
 
