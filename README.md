@@ -40,6 +40,7 @@ send a pull request.*
 * *Mar 8th* **San Francisco, CA, USA** [NodeCopter](http://jsfest.com/)
 * *Mar 8th* **San Francisco, CA, USA** [WebRTCCamp](http://jsfest.com/)
 * *Mar 8th* **San Francisco, CA, USA** [JSFest: Silent Disco](http://jsfest.com/)
+* *Mar 8th* **Budapest, Hungary** [Nodeschool](http://ti.to/nodebp/nodeschool201403)
 * *Mar 9th* **San Francisco, CA, USA** [JSFest: Evolution of Experience](http://jsfest.com/)
 * *Mar 9th* **San Francisco, CA, USA** [ImprovJS](http://jsfest.com/)
 * *Mar 10th* **San Francisco, CA, USA** [JSFest: Scaling Up and Down](http://jsfest.com/)
