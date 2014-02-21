@@ -26,6 +26,7 @@ send a pull request.*
 * *Feb 26th* **Medellín, Colombia** [MedellínJS: Yeoman - Mapas en la web con D3.js y TopoJson](http://www.meetup.com/MedellinJS/events/167134402/)
 * *Feb 26th-28th* **New York City, NY, USA** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-new-york-city-feb-2014)
 * *Feb 27th* **Los Angeles, CA, USA** [JSLA](http://js.la)
+* *Feb 27th* **Portland, OR, USA** [PDXNode combined hacknights! NodeBots and Code & Learn join forces](http://www.meetup.com/pdxnode/events/152185322/)
 
 ### March 2014
 * *Mar 3th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
@@ -53,7 +54,7 @@ send a pull request.*
 * *Mar 14th-15th* **Montevideo, Uruguay** [JSConf](http://jsconf.uy)
 * *Mar 19th-21th* **Budapest, Hungary** [Node.JS Fundamentals training](www.olindata.com/training/hungary/budapest/nodejs-fundamentals-training-budapest-march-2014)
 * *Mar 20th* **Saint Louis, MO, USA** [STLJS: Lazy.js for Performance and Efficiency](http://www.meetup.com/STL-JS-meetup/events/151446282/)
-* *Mar 20th* **Portland, OR, USA** [PDXNode and Joyent present Node.js on the Road](http://www.meetup.com/nodepdx/)
+* *Mar 20th* **Portland, OR, USA** [PDXNode and Joyent present Node.js on the Road](http://www.meetup.com/pdxnode/events/167333002/)
 * *Mar 26th-28th* **London, UK** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-london-march-2014)
 * *Mar 31st- Feb 2nd* **Berlin, Germany** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-berlin-march-2014)
 
