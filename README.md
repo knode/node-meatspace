@@ -15,20 +15,6 @@ send a pull request.*
 
 ### This Week
 
-* *Feb 17th-19th* **San Francisco, CA, USA** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-san-francisco-feb-2014)
-* *Feb 19th* **San Francisco, CA, USA** [SushiJS](https://github.com/sushijs/san-francisco-ca-usa/issues/3)
-* *Feb 20th* **Saint Louis, MO, USA** [STLJS: Distributed, Functional Reactive JavaScript for the Win](http://www.meetup.com/STL-JS-meetup/events/151262552/)
-* *Feb 20th* **Portland, OR** [PDXNode presents NodeSchool.io](https://ti.to/pdxnode/nodeschool)
-* *Feb 22th* **Medellín, Colombia** [Primer NodeSchool Medellín](http://www.meetup.com/MedellinJS/events/167090612/)
-
-### February 2014
-
-* *Feb 26th* **Medellín, Colombia** [MedellínJS: Yeoman - Mapas en la web con D3.js y TopoJson](http://www.meetup.com/MedellinJS/events/167134402/)
-* *Feb 26th-28th* **New York City, NY, USA** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-new-york-city-feb-2014)
-* *Feb 27th* **Los Angeles, CA, USA** [JSLA](http://js.la)
-* *Feb 27th* **Portland, OR, USA** [PDXNode combined hacknights! NodeBots and Code & Learn join forces](http://www.meetup.com/pdxnode/events/152185322/)
-
-### March 2014
 * *Mar 3th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *Mar 5th* **Menlo Park, CA, USA** [BayNode](http://www.meetup.com/BayNode/events/159918202/)
 * *Mar 6th* **San Francisco, CA, USA** [FarmJS](http://jsfest.com/)
@@ -44,6 +30,8 @@ send a pull request.*
 * *Mar 8th* **Budapest, Hungary** [Nodeschool](http://ti.to/nodebp/nodeschool201403)
 * *Mar 9th* **San Francisco, CA, USA** [JSFest: Evolution of Experience](http://jsfest.com/)
 * *Mar 9th* **San Francisco, CA, USA** [ImprovJS](http://jsfest.com/)
+
+### March 2014
 * *Mar 10th* **San Francisco, CA, USA** [JSFest: Scaling Up and Down](http://jsfest.com/)
 * *Mar 11th-13th* **San Francisco, CA, USA** [Fluent: Web Platform](http://fluentconf.com/)
 * *Mar 11th* **San Francisco, CA, USA** [NodeSchool: Learn You The Node.js For Much Win!](http://jsfest.com/)
