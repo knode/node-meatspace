@@ -15,23 +15,6 @@ send a pull request.*
 
 ### This Week
 
-* *Mar 3th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
-* *Mar 5th* **Menlo Park, CA, USA** [BayNode](http://www.meetup.com/BayNode/events/159918202/)
-* *Mar 6th* **San Francisco, CA, USA** [FarmJS](http://jsfest.com/)
-* *Mar 6th* **San Francisco, CA, USA** [KnodeCamp](http://jsfest.com/)
-* *Mar 6th* **San Francisco, CA, USA** [NodeUp Live!](http://jsfest.com/)
-* *Mar 7th* **San Francisco, CA, USA** [DHTMLConf](http://jsfest.com/)
-* *Mar 7th* **San Francisco, CA, USA** [NodeBaseCamp](http://jsfest.com/)
-* *Mar 7th* **San Francisco, CA, USA** [TC39 Town Hall](http://jsfest.com/)
-* *Mar 8th* **San Francisco, CA, USA** [BackStrap: Backbone and Bootstrap](http://jsfest.com/)
-* *Mar 8th* **San Francisco, CA, USA** [NodeCopter](http://jsfest.com/)
-* *Mar 8th* **San Francisco, CA, USA** [WebRTCCamp](http://jsfest.com/)
-* *Mar 8th* **San Francisco, CA, USA** [JSFest: Silent Disco](http://jsfest.com/)
-* *Mar 8th* **Budapest, Hungary** [Nodeschool](http://ti.to/nodebp/nodeschool201403)
-* *Mar 9th* **San Francisco, CA, USA** [JSFest: Evolution of Experience](http://jsfest.com/)
-* *Mar 9th* **San Francisco, CA, USA** [ImprovJS](http://jsfest.com/)
-
-### March 2014
 * *Mar 10th* **San Francisco, CA, USA** [JSFest: Scaling Up and Down](http://jsfest.com/)
 * *Mar 11th-13th* **San Francisco, CA, USA** [Fluent: Web Platform](http://fluentconf.com/)
 * *Mar 11th* **San Francisco, CA, USA** [NodeSchool: Learn You The Node.js For Much Win!](http://jsfest.com/)
@@ -40,6 +23,8 @@ send a pull request.*
 * *Mar 12th* **San Francisco, CA, USA** [NodeSchool: Level Me Up Scotty!](http://jsfest.com/)
 * *Mar 12th* **London, UK** [NodeSchool: Learn You The Node.js For Much Win!](https://ti.to/nodeschool/london-march-2014)
 * *Mar 14th-15th* **Montevideo, Uruguay** [JSConf](http://jsconf.uy)
+
+### March 2014
 * *Mar 19th-21th* **Budapest, Hungary** [Node.JS Fundamentals training](www.olindata.com/training/hungary/budapest/nodejs-fundamentals-training-budapest-march-2014)
 * *Mar 20th* **Saint Louis, MO, USA** [STLJS: Lazy.js for Performance and Efficiency](http://www.meetup.com/STL-JS-meetup/events/151446282/)
 * *Mar 20th* **Portland, OR, USA** [PDXNode and Joyent present Node.js on the Road](http://www.meetup.com/pdxnode/events/167333002/)
