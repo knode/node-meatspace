@@ -25,6 +25,7 @@ send a pull request.*
 * *Mar 14th-15th* **Montevideo, Uruguay** [JSConf](http://jsconf.uy)
 
 ### March 2014
+* *Mar 17th* **Denver, CO, USA** [Node.js Boulder/Denver: Intro to Node and a bit more](http://www.meetup.com/Node-js-Denver-Boulder/events/169437542/)
 * *Mar 19th-21th* **Budapest, Hungary** [Node.JS Fundamentals training](www.olindata.com/training/hungary/budapest/nodejs-fundamentals-training-budapest-march-2014)
 * *Mar 20th* **Saint Louis, MO, USA** [STLJS: Lazy.js for Performance and Efficiency](http://www.meetup.com/STL-JS-meetup/events/151446282/)
 * *Mar 20th* **Portland, OR, USA** [PDXNode and Joyent present Node.js on the Road](http://www.meetup.com/pdxnode/events/167333002/)
