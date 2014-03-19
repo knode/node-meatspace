@@ -33,6 +33,7 @@ send a pull request.*
 * *Mar 31st- Feb 2nd* **Berlin, Germany** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-berlin-march-2014)
 
 ### April 2014
+* *April 3rd* **Melbourne, Australia** [Melbourne Node.js meetup](http://www.meetup.com/MelbNodeJS/events/172060562/)
 * *Apr 7th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *Apr 17th* **Saint Louis, MO, USA** [STLJS: Advanced AngularJS](http://www.meetup.com/STL-JS-meetup/events/149998082/)
 * *Apr 23th-25th* **Budapest, Hungary** [CraftConf](http://craft-conf.com/2014/)
