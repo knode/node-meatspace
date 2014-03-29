@@ -21,6 +21,7 @@ send a pull request.*
 * *Apr 7th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *Apr 16th* **San Francisco, CA, USA** [SushiJS](https://github.com/sushijs/san-francisco-ca-usa/issues/4)
 * *Apr 17th* **Saint Louis, MO, USA** [STLJS: Advanced AngularJS](http://www.meetup.com/STL-JS-meetup/events/149998082/)
+* *Apr 23th* **Budapest, Hungary** [Nodebp April](http://www.meetup.com/nodebp/events/172548072/)
 * *Apr 23th-25th* **Budapest, Hungary** [CraftConf](http://craft-conf.com/2014/)
 * *Apr 23rd-25th* **San Francisco, CA, USA** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-san-francisco-april-2014)
 * *Apr 26th-27th* **Hamburg, Germany** [JS Unconf](http://2014.jsunconf.eu)
