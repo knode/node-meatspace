@@ -14,26 +14,10 @@ If you're interested in sharing events in your area and how they're being run, p
 send a pull request.*
 
 ### This Week
-
-* *Mar 10th* **San Francisco, CA, USA** [JSFest: Scaling Up and Down](http://jsfest.com/)
-* *Mar 11th-13th* **San Francisco, CA, USA** [Fluent: Web Platform](http://fluentconf.com/)
-* *Mar 11th* **San Francisco, CA, USA** [NodeSchool: Learn You The Node.js For Much Win!](http://jsfest.com/)
-* *Mar 11th* **San Francisco, CA, USA** [NodeSchool: Stream Adventure](http://jsfest.com/)
-* *Mar 11th* **Norwich, UK** [NodeSchool: Learn You The Node.js For Much Win!](http://www.meetup.com/Norfolk-Developers-NorDev/events/158375062/)
-* *Mar 12th* **San Francisco, CA, USA** [NodeSchool: Level Me Up Scotty!](http://jsfest.com/)
-* *Mar 12th* **London, UK** [NodeSchool: Learn You The Node.js For Much Win!](https://ti.to/nodeschool/london-march-2014)
-* *Mar 14th-15th* **Montevideo, Uruguay** [JSConf](http://jsconf.uy)
-
-### March 2014
-* *Mar 17th* **Denver, CO, USA** [Node.js Boulder/Denver: Intro to Node and a bit more](http://www.meetup.com/Node-js-Denver-Boulder/events/169437542/)
-* *Mar 19th-21th* **Budapest, Hungary** [Node.JS Fundamentals training](www.olindata.com/training/hungary/budapest/nodejs-fundamentals-training-budapest-march-2014)
-* *Mar 20th* **Saint Louis, MO, USA** [STLJS: Lazy.js for Performance and Efficiency](http://www.meetup.com/STL-JS-meetup/events/151446282/)
-* *Mar 20th* **Portland, OR, USA** [PDXNode and Joyent present Node.js on the Road](http://www.meetup.com/pdxnode/events/167333002/)
-* *Mar 26th-28th* **London, UK** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-london-march-2014)
 * *Mar 31st- Feb 2nd* **Berlin, Germany** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-berlin-march-2014)
+* *April 3rd* **Melbourne, Australia** [Melbourne Node.js meetup](http://www.meetup.com/MelbNodeJS/events/172060562/)
 
 ### April 2014
-* *April 3rd* **Melbourne, Australia** [Melbourne Node.js meetup](http://www.meetup.com/MelbNodeJS/events/172060562/)
 * *Apr 7th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *Apr 16th* **San Francisco, CA, USA** [SushiJS](https://github.com/sushijs/san-francisco-ca-usa/issues/4)
 * *Apr 17th* **Saint Louis, MO, USA** [STLJS: Advanced AngularJS](http://www.meetup.com/STL-JS-meetup/events/149998082/)
