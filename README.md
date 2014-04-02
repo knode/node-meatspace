@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/knode/node-meatspace.png)](https://travis-ci.org/knode/node-meatspace)
 
-Node.js Meatspace
+[Node.js Meatspace](http://nodemeatspace.com/)
 ==============
 
 This project is to encourage and promote real world in-person events by/for the node.js community.
