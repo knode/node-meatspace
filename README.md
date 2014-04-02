@@ -19,6 +19,7 @@ send a pull request.*
 
 ### April 2014
 * *Apr 7th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
+* *Apr 15th* **Florence, Italy** [Commit University](http://www.commitsoftware.it/#commit-university)
 * *Apr 16th* **San Francisco, CA, USA** [SushiJS](https://github.com/sushijs/san-francisco-ca-usa/issues/4)
 * *Apr 17th* **Saint Louis, MO, USA** [STLJS: Advanced AngularJS](http://www.meetup.com/STL-JS-meetup/events/149998082/)
 * *Apr 23th* **Budapest, Hungary** [Nodebp April](http://www.meetup.com/nodebp/events/172548072/)
