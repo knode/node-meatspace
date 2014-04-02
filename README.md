@@ -16,15 +16,18 @@ send a pull request.*
 ### This Week
 * *Mar 31st- Feb 2nd* **Berlin, Germany** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-berlin-march-2014)
 * *April 3rd* **Melbourne, Australia** [Melbourne Node.js meetup](http://www.meetup.com/MelbNodeJS/events/172060562/)
+* *Apr 3rd* **Portland, OR** [PDXNode](http://www.meetup.com/pdxnode/events/174531122/)
 
 ### April 2014
 * *Apr 7th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *Apr 15th* **Florence, Italy** [Commit University](http://www.commitsoftware.it/#commit-university)
 * *Apr 16th* **San Francisco, CA, USA** [SushiJS](https://github.com/sushijs/san-francisco-ca-usa/issues/4)
 * *Apr 17th* **Saint Louis, MO, USA** [STLJS: Advanced AngularJS](http://www.meetup.com/STL-JS-meetup/events/149998082/)
-* *Apr 23th* **Budapest, Hungary** [Nodebp April](http://www.meetup.com/nodebp/events/172548072/)
-* *Apr 23th-25th* **Budapest, Hungary** [CraftConf](http://craft-conf.com/2014/)
+* *Apr 17th* **Portland, OR** [PDXNode COMBINED hacknights! NodeBots & Code & Learn](http://www.meetup.com/pdxnode/events/174940122/)
+* *Apr 23rd* **Budapest, Hungary** [Nodebp April](http://www.meetup.com/nodebp/events/172548072/)
+* *Apr 23rd-25th* **Budapest, Hungary** [CraftConf](http://craft-conf.com/2014/)
 * *Apr 23rd-25th* **San Francisco, CA, USA** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-san-francisco-april-2014)
+* *Apr 24th* **Portland, OR** [PDXNode presents NodeSchool.io](https://ti.to/pdxnode/nodeschool)
 * *Apr 26th-27th* **Hamburg, Germany** [JS Unconf](http://2014.jsunconf.eu)
 * *Apr 30th-May 2nd* **New York City, NY, USA** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-new-york-city-april-2014)
 
