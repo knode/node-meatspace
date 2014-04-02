@@ -20,12 +20,15 @@ send a pull request.*
 
 ### April 2014
 * *Apr 7th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
+* *Apr 9th* **Mountain View, CA, USA** [BayNode Hacknight](http://www.meetup.com/BayNode/events/169049922/)
 * *Apr 15th* **Florence, Italy** [Commit University](http://www.commitsoftware.it/#commit-university)
 * *Apr 16th* **San Francisco, CA, USA** [SushiJS](https://github.com/sushijs/san-francisco-ca-usa/issues/4)
 * *Apr 17th* **Saint Louis, MO, USA** [STLJS: Advanced AngularJS](http://www.meetup.com/STL-JS-meetup/events/149998082/)
+* *Apr 17th* **Menlo Park, CA, USA** [BayNode Talk Night](http://www.meetup.com/BayNode/events/174028612/)
 * *Apr 17th* **Portland, OR** [PDXNode COMBINED hacknights! NodeBots & Code & Learn](http://www.meetup.com/pdxnode/events/174940122/)
-* *Apr 23rd* **Budapest, Hungary** [Nodebp April](http://www.meetup.com/nodebp/events/172548072/)
-* *Apr 23rd-25th* **Budapest, Hungary** [CraftConf](http://craft-conf.com/2014/)
+* *Apr 23th* **Budapest, Hungary** [Nodebp April](http://www.meetup.com/nodebp/events/172548072/)
+* *Apr 24th* **Mountain View, CA, USA** [BayNode Beer.node](http://www.meetup.com/BayNode/events/172090942/)
+* *Apr 23th-25th* **Budapest, Hungary** [CraftConf](http://craft-conf.com/2014/)
 * *Apr 23rd-25th* **San Francisco, CA, USA** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-san-francisco-april-2014)
 * *Apr 24th* **Portland, OR** [PDXNode presents NodeSchool.io](https://ti.to/pdxnode/nodeschool)
 * *Apr 26th-27th* **Hamburg, Germany** [JS Unconf](http://2014.jsunconf.eu)
@@ -34,11 +37,15 @@ send a pull request.*
 ### May 2014
 * *May 5th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *May 5th-6th* **New York, NY, USA** [EmpireJS](http://empirejs.org/)
+* *May 6th* **Mountain View, CA, USA** [BayNode Learning Node](http://www.meetup.com/BayNode/events/173698532/)
 * *May 7th-9th* **Kuala Lumpur, Malaysia** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-kuala-lumpur-may-2014)
 * *May 14th-16th* **Manila, Phillipines** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-manila-may-2014)
+* *May 14th* **Mountain View, CA, USA** [BayNode Hacknight](http://www.meetup.com/BayNode/events/171024202/)
 * *May 15th* **Saint Louis, MO, USA** [STLJS: Node.js and Drupal &mdash; Working Together](http://www.meetup.com/STL-JS-meetup/events/151436472/)
+* *May 22nd* **Mountain View, CA, USA** [BayNode Beer.node](http://www.meetup.com/BayNode/events/172091012/)
 * *May 22nd-23rd* **Oslo, Norway** [Web Rebels](http://webrebels.org/)
 * *May 23rd-26th* **Melbourne, Australia** [CampJS III](http://campjs.com/)
+* *May 29th* **Menlo Park, CA, USA** [BayNode Talk Night](http://www.meetup.com/BayNode/events/174030922/)
 * *May 28th-30th* **Amelia Island, FL, USA** [JSConf](http://2014.jsconf.us/)
 
 
