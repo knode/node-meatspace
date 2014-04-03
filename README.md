@@ -21,6 +21,7 @@ send a pull request.*
 ### April 2014
 * *Apr 7th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *Apr 9th* **Mountain View, CA, USA** [BayNode Hacknight](http://www.meetup.com/BayNode/events/169049922/)
+* *Apr 12th* **Medellín, Colombia** [NodeSchool Medellín](http://www.meetup.com/MedellinJS/events/175162032/)
 * *Apr 15th* **Florence, Italy** [Commit University](http://www.commitsoftware.it/#commit-university)
 * *Apr 16th* **San Francisco, CA, USA** [SushiJS](https://github.com/sushijs/san-francisco-ca-usa/issues/4)
 * *Apr 17th* **Saint Louis, MO, USA** [STLJS: Advanced AngularJS](http://www.meetup.com/STL-JS-meetup/events/149998082/)
