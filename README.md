@@ -34,6 +34,7 @@ send a pull request.*
 * *Apr 24th* **Portland, OR** [PDXNode presents NodeSchool.io](https://ti.to/pdxnode/nodeschool)
 * *Apr 26th-27th* **Hamburg, Germany** [JS Unconf](http://2014.jsunconf.eu)
 * *Apr 30th-May 2nd* **New York City, NY, USA** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-new-york-city-april-2014)
+* *Apr 30th* **London, UK** [NodeSchool London](https://ti.to/nodeschool/london-april-2014)
 
 ### May 2014
 * *May 5th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
