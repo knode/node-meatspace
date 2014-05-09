@@ -14,9 +14,10 @@ If you're interested in sharing events in your area and how they're being run, p
 send a pull request.*
 
 ### This Week
-* *Mar 31st- Feb 2nd* **Berlin, Germany** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-berlin-march-2014)
-* *April 3rd* **Melbourne, Australia** [Melbourne Node.js meetup](http://www.meetup.com/MelbNodeJS/events/172060562/)
-* *Apr 3rd* **Portland, OR** [PDXNode](http://www.meetup.com/pdxnode/events/174531122/)
+* *May 12th* **London, UK** [Nodeschool London](https://ti.to/nodeschool/london-may-2014)
+* *May 14th-16th* **Manila, Phillipines** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-manila-may-2014)
+* *May 14th* **Mountain View, CA, USA** [BayNode Hacknight](http://www.meetup.com/BayNode/events/171024202/)
+* *May 15th* **Saint Louis, MO, USA** [STLJS: Node.js and Drupal &mdash; Working Together](http://www.meetup.com/STL-JS-meetup/events/151436472/)
 
 ### April 2014
 * *Apr 7th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
@@ -41,6 +42,7 @@ send a pull request.*
 * *May 5th-6th* **New York, NY, USA** [EmpireJS](http://empirejs.org/)
 * *May 6th* **Mountain View, CA, USA** [BayNode Learning Node](http://www.meetup.com/BayNode/events/173698532/)
 * *May 7th-9th* **Kuala Lumpur, Malaysia** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-kuala-lumpur-may-2014)
+* *May 12th* **London, UK** [Nodeschool London](https://ti.to/nodeschool/london-may-2014)
 * *May 14th-16th* **Manila, Phillipines** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-manila-may-2014)
 * *May 14th* **Mountain View, CA, USA** [BayNode Hacknight](http://www.meetup.com/BayNode/events/171024202/)
 * *May 15th* **Saint Louis, MO, USA** [STLJS: Node.js and Drupal &mdash; Working Together](http://www.meetup.com/STL-JS-meetup/events/151436472/)
