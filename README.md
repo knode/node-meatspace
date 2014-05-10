@@ -18,6 +18,7 @@ send a pull request.*
 * *May 14th-16th* **Manila, Phillipines** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-manila-may-2014)
 * *May 14th* **Mountain View, CA, USA** [BayNode Hacknight](http://www.meetup.com/BayNode/events/171024202/)
 * *May 15th* **Saint Louis, MO, USA** [STLJS: Node.js and Drupal &mdash; Working Together](http://www.meetup.com/STL-JS-meetup/events/151436472/)
+* *May 15th* **Budapest, Hungary** [Nodebp May](http://www.meetup.com/nodebp/events/180666772/)
 
 ### May 2014
 * *May 5th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
