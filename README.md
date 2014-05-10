@@ -19,24 +19,6 @@ send a pull request.*
 * *May 14th* **Mountain View, CA, USA** [BayNode Hacknight](http://www.meetup.com/BayNode/events/171024202/)
 * *May 15th* **Saint Louis, MO, USA** [STLJS: Node.js and Drupal &mdash; Working Together](http://www.meetup.com/STL-JS-meetup/events/151436472/)
 
-### April 2014
-* *Apr 7th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
-* *Apr 9th* **Mountain View, CA, USA** [BayNode Hacknight](http://www.meetup.com/BayNode/events/169049922/)
-* *Apr 12th* **Medellín, Colombia** [NodeSchool Medellín](http://www.meetup.com/MedellinJS/events/175162032/)
-* *Apr 15th* **Florence, Italy** [Commit University](http://www.commitsoftware.it/#commit-university)
-* *Apr 16th* **San Francisco, CA, USA** [SushiJS](https://github.com/sushijs/san-francisco-ca-usa/issues/4)
-* *Apr 17th* **Saint Louis, MO, USA** [STLJS: Advanced AngularJS](http://www.meetup.com/STL-JS-meetup/events/149998082/)
-* *Apr 17th* **Menlo Park, CA, USA** [BayNode Talk Night](http://www.meetup.com/BayNode/events/174028612/)
-* *Apr 17th* **Portland, OR** [PDXNode COMBINED hacknights! NodeBots & Code & Learn](http://www.meetup.com/pdxnode/events/174940122/)
-* *Apr 23th* **Budapest, Hungary** [Nodebp April](http://www.meetup.com/nodebp/events/172548072/)
-* *Apr 24th* **Mountain View, CA, USA** [BayNode Beer.node](http://www.meetup.com/BayNode/events/172090942/)
-* *Apr 23th-25th* **Budapest, Hungary** [CraftConf](http://craft-conf.com/2014/)
-* *Apr 23rd-25th* **San Francisco, CA, USA** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-san-francisco-april-2014)
-* *Apr 24th* **Portland, OR** [PDXNode presents NodeSchool.io](https://ti.to/pdxnode/nodeschool)
-* *Apr 26th-27th* **Hamburg, Germany** [JS Unconf](http://2014.jsunconf.eu)
-* *Apr 30th-May 2nd* **New York City, NY, USA** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-new-york-city-april-2014)
-* *Apr 30th* **London, UK** [NodeSchool London](https://ti.to/nodeschool/london-april-2014)
-
 ### May 2014
 * *May 5th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
 * *May 5th-6th* **New York, NY, USA** [EmpireJS](http://empirejs.org/)
