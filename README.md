@@ -45,8 +45,12 @@ send a pull request.*
 ### July 2014
 * *Jul 4th Weekend* **Marin County, CA, USA** [NodeConf 2014](http://www.nodeconf.com)
 * *Jul 7th* **Stuttgart, Germany** [Pferdle-JavaScript Meetup](http://www.meetup.com/stuttgartjs/)
+* *Jul 14th* **Denver, CO, USA** [Zones - A Next Generation Async Flow Control Library for Node.js with Bert Belder](http://www.meetup.com/Node-js-Denver-Boulder/events/191741102/)
 * *Jul 17th* **Saint Louis, MO, USA** [STLJS: Special Presentation](http://www.meetup.com/STL-JS-meetup/events/154371372/)
 * *Jul 31st-Aug 1st* **Portland, OR, USA** [CascadiaJS 2014](http://www.cascadiajs.com/)
+
+### August 2014
+* *Aug 2nd* **Denver, CO, USA** [Nodeschool.io - Denver](http://www.meetup.com/Node-js-Denver-Boulder/events/191750482/)
 
 ### October 2014
 * *October 9th* **Oklahoma City, OK, USA** [Thunder Plains Developer Conference](http://thunderplainsconf.com/)
