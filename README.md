@@ -54,3 +54,7 @@ send a pull request.*
 
 ### October 2014
 * *October 9th* **Oklahoma City, OK, USA** [Thunder Plains Developer Conference](http://thunderplainsconf.com/)
+* *October 27th* **New York, NY, USA** [EmpireNode Conference](http://empirenode.org/)
+
+### November 2014
+* *November 29th* **Buenos Aires, Argentina** [JSConf Argentina](http://www.jsconfar.com/)
