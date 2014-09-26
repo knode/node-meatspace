@@ -52,5 +52,8 @@ send a pull request.*
 ### August 2014
 * *Aug 2nd* **Denver, CO, USA** [Nodeschool.io - Denver](http://www.meetup.com/Node-js-Denver-Boulder/events/191750482/)
 
+### September 2015
+* *Sept 27th* **Oslo, Norway** [Node.js Oslo Nodeschool](http://www.meetup.com/NodeJSOslo/events/184934982/)
+
 ### October 2014
 * *October 9th* **Oklahoma City, OK, USA** [Thunder Plains Developer Conference](http://thunderplainsconf.com/)
